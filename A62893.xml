@@ -1,0 +1,1099 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Muggletonians principles prevailing being an answer in full to a scandalous and malicious pamphlet, intituled A true representation of the absurd and mischevious principles of the sect called Muggletonians : herein the aforesaid principles are vindicated, and proved to be infallibly true : and the author of that libel, his scandalous title and subject proved as false to truth, as light is to darkness, and that he knows no more what the true God is, nor what the right devil is, nor any true principle or foundation of faith, for all his great learning he so much bosts of, then those Jews that put the Lord of life to death, for learned and taught reason is but natural, and so falls short of the glory of God, as will appear in the following discourse / by T.T.</title>
+            <author>Tomkinson, Thomas, 1631-1710?</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1695</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 151 KB of XML-encoded text transcribed from 40 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A62893</idno>
+            <idno type="STC">Wing T1840</idno>
+            <idno type="STC">ESTC R18719</idno>
+            <idno type="EEBO-CITATION">12350288</idno>
+            <idno type="OCLC">ocm 12350288</idno>
+            <idno type="VID">59959</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A62893)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 59959)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 927:21)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Muggletonians principles prevailing being an answer in full to a scandalous and malicious pamphlet, intituled A true representation of the absurd and mischevious principles of the sect called Muggletonians : herein the aforesaid principles are vindicated, and proved to be infallibly true : and the author of that libel, his scandalous title and subject proved as false to truth, as light is to darkness, and that he knows no more what the true God is, nor what the right devil is, nor any true principle or foundation of faith, for all his great learning he so much bosts of, then those Jews that put the Lord of life to death, for learned and taught reason is but natural, and so falls short of the glory of God, as will appear in the following discourse / by T.T.</title>
+                  <author>Tomkinson, Thomas, 1631-1710?</author>
+               </titleStmt>
+               <extent>4, 75 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London? :</pubPlace>
+                  <date>1695.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Williams, John, 1636?-1709. --  True representation of the absurd and mischevious principles of the sect called Muggletonians.</term>
+               <term>Muggletonians.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-01</date>
+            <label>Jayanthi Reddy</label>Sampled and proofread</change>
+         <change>
+            <date>2012-01</date>
+            <label>Jayanthi Reddy</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:59959:1" rendition="simple:additions"/>
+            <p>THE Muggletonians Principles PREVAILING: BEING An Anſwer in full to a Scandalous and Ma<g ref="char:EOLhyphen"/>litious Pamphlet, Intituled A <hi>True Repreſentation</hi> OF THE Abſurd and Miſchevious Principles of the Sect called MUGGLETONIANS; WHEREIN The aforeſaid Principles are Vindicated, and proved to be infallibly True. AND The Author of that Libel, his Scandalous Title and Subject proved as Falſe to Truth, as Light is to Darkneſs: And that he knows no more what the true God is, nor what the right Devil is; nor any true Principle or Foundation of Faith, for all his great Learning he ſo much boſts of, then thoſe <hi>Jews</hi> that put the Lord of Life to Death: For learned and taught Reaſon is but natural, and ſo falls ſhort of the Glory of God; as will appear in the following Diſcourſe.</p>
+            <q>Things that are deſpiſed hath God choſen to bring to nought Things that are,
+<bibl>
+                  <hi>1 Cor. 1.28.</hi>
+               </bibl>
+            </q>
+            <p>By <hi>T. T.</hi>
+            </p>
+            <p>
+               <hi>Printed in the Year of our Lord God</hi> 1695.</p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:59959:2"/>
+            <pb n="3" facs="tcp:59959:2"/>
+            <head>The <hi>Epiſtle</hi> to the ſober Reader.</head>
+            <opener>
+               <salute>Curtious Reader,</salute>
+            </opener>
+            <p>I Have here, in this inſuing Treatis, Vindicated the Principles of them People called <hi>Muggletonians,</hi> from that Aſperſion and Slander that envious Reaſon hath caſt upon it; I being a Member of that Body, and knowing thoſe Principles to be Truth, having lived in the Know<g ref="char:EOLhyphen"/>ledg and Practice of them above this Thirty Years.</p>
+            <p>Now in that Providence ſhould bring thee in, to ſee this my Anſwer, and ſhalt find ſome things very ſtrange to thy Underſtanding: And tho, perhaps, thou canſt not ap<g ref="char:EOLhyphen"/>prehend it at firſt View for Truth, yet if thou canſt pre<g ref="char:EOLhyphen"/>ſerve thyſelf from diſpiſing it, thou dost well to thy own Soul.</p>
+            <p>Therefore keep thyſelf from Judging,
+<note place="margin">1 Cor. 2.15.</note> if thou wilt live in Peace, becauſe that none can judg of Spiritual Things but Spiritual Men: And know this, that the un-judging Man is eaſy, and may afterwards come to Believe, being in the time of a Commiſſion, and ſo with the Five wiſe Vir<g ref="char:EOLhyphen"/>gins bring Oyle in their Lamps, before the Dore be ſhut,
+<note place="margin">Mart. 25.4.</note> or Death aproach.</p>
+            <p>But to Contend againſt Truth held forth by a Commiſſion from Heaven, is an evident Sgn of Rejection, for it will prove a <hi>Sin againſt the Holyghoſt:</hi> Therefore I adviſe thee but to take care of theſe Two Things; the one, <hi>Not to break the Law;</hi> the other, <hi>Not to deſpiſe Propheſy, becauſe they are both Damnable:</hi> And more People are Damned for breaking the Law than any other Sin, for the Sin againſt the Holyghoſt is not committed in every Age, but only in the time of a Commiſſion; ſo that more People have committed that Sin within this Forty four Years then hath done of Thirteen Hundred and Fifty Years
+<pb n="4" facs="tcp:59959:3"/>before: So that theſe Two things are to be ſhun'd, the laſt moſt eſpecially,
+<note place="margin">Matt. 12.32. Rom. 6. ult. 1 Cor. 6.11. Ephe. 2.1.</note> becauſe there is no Sacrifiſe for that Sin, but the other is Pardonable in the time of a Commiſſion, by having Faith in the Doctrin thereof, and living free from the Breach of the Law after, as to the Act. This is the Benefit of a true <hi>Miniſtry,</hi> but no true <hi>Miniſtry,</hi> no true <hi>Converſion</hi> from the Act of Sin:
+<note place="margin">Jer. 23.32.</note> But the <hi>Elect</hi> are preſerved from the Act of Sin, and kept in <hi>innocency of Life,</hi> at ſuch Times, and in ſuch Places as Truth is not known by their generated Faith, which leads them to that Threefold Precept of the Prophet <hi>Micha. 1ſt. To do Juſtice,
+<note place="margin">Mich. 6 8.</note> 2dly. To loue Mercy,</hi> and <hi>3dly. To walk humbly with God:</hi> This is the Subſtance of pure and undefiled Religion: <hi>Stand faſt here, and be Happy.</hi>
+            </p>
+            <p>So that from what thou findeſt here written, thou upon ſight thereof muſt examine thy own Heart, and ſee how it ſtands in this Caſe; if thou canſt prove thy Election by Faith in the true God, now he is made manifeſt, it is well for thee, and the Benifit will be thine; but if thou canſt not believe it, yet if thou diſpiſeſt it not, thou art not againſt us, nor againſt thy own Soul, neither are we againſt thee, be of what Religion or Opinion thou wilt; but ſhall leave thee as the Two Seeds ſhall find thee at the laſt Day.</p>
+            <p>And ſo wiſhing well to all ſober Men, but more eſpeci<g ref="char:EOLhyphen"/>ally, to ſuch as are not offended with theſe plain Truths touching the <hi>Lord Jeſus Chriſt</hi> being that moſt High and Mighty God, and Everlaſting Father, ſo abundantly ex<g ref="char:EOLhyphen"/>alted through the Scriptures of Truth, as is now explain<g ref="char:EOLhyphen"/>ed and fully declared, by the Third and Laſt ſpiritual Commiſſion, which was to finiſh that ſacred Miſtery of God's becoming Fleſh; and now it is finiſhed, if thou canſt Believe: <hi>And he that hath Ears to hear, let him hear.</hi>
+            </p>
+            <closer>
+               <salute>FAREWEL.</salute>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="pamphlet">
+            <pb n="1" facs="tcp:59959:3"/>
+            <head>THE MUGGLETONIANS PRINCIPLES PREVAILING.</head>
+            <div n="1" type="chapter">
+               <head>CHAP. I.</head>
+               <p>THe Church of God was never without oppoſi<g ref="char:EOLhyphen"/>tion; nor Truth without Hatred; for in that there are two Seeds, there muſt be a War entroduced, becauſe the Seeds are in oppoſition to each other, being from two ſeveral Roots, Faith and Reaſon, Light and Darkneſs, God and Devil; ſo that the Seed of the Woman and the Seed of the Serpent will hould continually Enmity.</p>
+               <p>Now you that have Accuſed the <hi>Muggletonians Principles</hi> for <hi>Impiouſe,</hi> and <hi>Miſchevious,</hi> let us come to the <hi>Tryal</hi> of it, with you and of you, and ſee how you durſt be ſo bold, as to make ſo falſe a Repre<g ref="char:EOLhyphen"/>ſentation of the <hi>Muggletonians Principles;</hi> that you ſhould Intitle your <hi>Diabolical Pamphlet</hi> by the name of a <hi>True Repreſentation</hi> of the <hi>Abſurd</hi> and <hi>Miſchevious Principles,</hi> of the <hi>Sect</hi> called <hi>Muggletonians.</hi>
+               </p>
+               <p>If you the <hi>Writer</hi> thereof, had caſt them Aſperſions upon our Perſons, and not upon our Principles, we would have borne it with ſilence, but in that you
+<pb n="2" facs="tcp:59959:4"/>have judged our Faith to be Blaſphemous and Miſ<g ref="char:EOLhyphen"/>chevious, which we have received from the Bounty and Love of God; therefore in diſpiſing and con<g ref="char:EOLhyphen"/>demning it, you diſpiſe and condemn our God; ſo in this Caſe we muſt reſiſt you, and ſtand forth for the defence of our Faith.</p>
+               <p>And altho it ſhould be where Satans Seat is, yet we will not let go our Inheritance, for our Inheri<g ref="char:EOLhyphen"/>tance lies in the Belief of our Principles, wherein we have the Charter of Heaven ſealed to us; there<g ref="char:EOLhyphen"/>fore we will not only vindicate thoſe our Principles, which you ſo wickedly Repreſent, but will alſo, through Grace, ſeal to them with our Blood, if your Law can do it, and we be called thereunto.</p>
+               <p>For we are able to maintain thoſe Principles for Truth; therefore let us now come to the Tryal of Truth, and let us ſet our Principles each againſt the other; and them, whoſe Faith and Wiſdom is great<g ref="char:EOLhyphen"/>eſt, let them hold the other under in Bondage for ever.</p>
+               <p>
+                  <hi>Sir,</hi> You are come forth to Curſe a quiet and ſtill People, who meddle not with your Affairs, nor Ma<g ref="char:EOLhyphen"/>giſtrates Affairs: We lift not up our Hand, nor make uſe of a Sword of Steel to ſlay any Man: We defraud no Man, we wrong no Man; neither are we for thruſting you out of your Earthly Poſſeſſions; no, not out of your Pulpits or Pariſh-Livings; we will have none of them: But on the contrary, we are O<g ref="char:EOLhyphen"/>bedient unto all the Civil Laws of the Land, and give to every Man the Reſpect due unto him.</p>
+               <p>All therefore that we deſire of you is, That we may paſs peacibly through your Country towards our Inheritance; but you are not willing that we ſhould, no more than <hi>Edom</hi> was with <hi>Iſſrael;</hi>
+                  <note place="margin">Numb. 20.</note> but have pre<g ref="char:EOLhyphen"/>ſumed to ſtop our Courſe, by judging and condem<g ref="char:EOLhyphen"/>ing
+<pb n="3" facs="tcp:59959:4"/>our Faith: Now if our Faith be true, as we know it is, then you have given Judgment againſt your ſelf; you were not aware of that Caution of our Sa<g ref="char:EOLhyphen"/>viours Saying, <hi>Judg not, and thou ſhalt not be Judged;</hi>
+                  <note place="margin">Matt. 7.1</note> Now in that we know that our Faith is of God, and is Truth, therefore is it of Power to reign over that which judgeth it.</p>
+               <p>But if we might come to Reaſon together, then I would demand of you, wherefore you did ſend out your judging Pamphlet againſt us, and would not ſubſcribe your Name to it? Were you afraid of hold<g ref="char:EOLhyphen"/>ing Tryal with us, for fear you ſhould be worſted by us, as others have been heretofore; and ſo were for working Miſchief privately, and yet ly <hi>in Cognito,</hi> think<g ref="char:EOLhyphen"/>ing, belike, that Faiths Power could not find you out, to give you an Anſwer; otherwiſe how could you find a Name to your Book, and a Name to the People you wrote againſt, but have found never a Name for your ſelf, but have left it to us to find a Name for you, which according to holy Writ is <hi>Elimas</hi> a Corrupter,
+<note place="margin">Acts 13.10.</note> a ſworn Enemy to Truth, and the Accuſer of the Bre<g ref="char:EOLhyphen"/>thren; being of a worthy Deſcent, Succeſſor to <hi>Si<g ref="char:EOLhyphen"/>mon Magus;</hi> being newly crept out of the Colledg of Prieſts, which came out of the Mouth of the Falſe Prophet; ſuch a one as <hi>Amaziah</hi> the Prieſt of <hi>Beth-el,</hi>
+                  <note place="margin">Rev. 16.13. Amos 7.12.</note> who could not abide a poor Prophet, a Herds-Man, that he ſhould once ſpeak near the King's Chappel, becauſe it was the King's Court, in which Learned <hi>Amaziah</hi> was the Doctor and Chaplain.</p>
+               <p>Thus have you delt with theſe Prophets of the Lord; and for fear that this poor Prophets Doctrin (which you, like <hi>Amaziah,</hi> call Miſchevious) ſhould take any Ephect amongſt the People: From hence you have ſecretly ſpred this your Pamphlet into
+<pb n="4" facs="tcp:59959:5"/>your Brethren, the Prieſts, Hands, all the Nation o<g ref="char:EOLhyphen"/>ver; and have endeavoured to make our Principles as Contemptable and Odious as poſſibly you could, in order to make them ſeem the more Rediculous; and this your Book muſt be as a Pattern for them to frame their Arguments by; and thoſe their Arguments muſt be as Bulworks of Defence to them, and as Bullets ſhot againſt us.</p>
+               <p>
+                  <hi>Sir,</hi>
+                  <note place="margin">Eſther. 3.8.</note> You have acted in the very ſame way as <hi>Ha<g ref="char:EOLhyphen"/>man</hi> did againſt <hi>Iſrael,</hi> ſaying in this manner to the King, <hi>There is a certain malitious and miſchevious Peo<g ref="char:EOLhyphen"/>ple ſcattered abroad amongſt the People in all places, and their Laws are differing from all People; neither keep they the King's</hi> [Church-Laws] <hi>therefore it is not for the King's profit to ſuffer them; let them be deſtroyed; for their</hi> Principles <hi>are miſchevious.</hi>
+               </p>
+               <p>Now I being a Member of this diſpiſed People, ſee<g ref="char:EOLhyphen"/>ing your Spite and Malice againſt us (who have broke no Law) am from hence moved to return an Anſwer, and this my Reply ſhall not ſpare you, altho I am gi<g ref="char:EOLhyphen"/>ven to underſtand, That you are a Doctor of the Na<g ref="char:EOLhyphen"/>tional Church, for God and Faith is no reſpecter of Perſons in ſuch a Caſe; Therefore this my Reply ſhall perſue you until it overtake you; and when it hath overtaken you, it ſhall faſten a Witneſs in your Con<g ref="char:EOLhyphen"/>ſcience, that you have been a Fighter againſt God, his Prophets and People, and againſt the Sacred Scrip<g ref="char:EOLhyphen"/>tures; and a falſe Repreſenter of the <hi>Muggletonian</hi>'s Prin<g ref="char:EOLhyphen"/>ciples, and I ſhall not be long in proving the ſame: For,</p>
+               <p>In the Preface of your Book you ſay, That <hi>John Reeve</hi> was, by Profeſſion, a Baker; which Saying of yours is utterly Falſe: So here you haue forfited your Title-Page, which inſtead of a true Repreſentation is a falſe one.</p>
+               <pb n="5" facs="tcp:59959:5"/>
+               <p>But you bring him in as a Baker, to make him the more Contemptible with the Learned; but if he had, would that have made him more uncapable of being God's laſt Meſſenger, I tro not, no more than it did <hi>Amos,</hi> who was but a Herds-Man as aforeſaid.</p>
+               <p>For this is evident, that the Saints have found in all Ages, that the Learned have ever ſtood up as an Ene<g ref="char:EOLhyphen"/>my and Judg of ſpiritual Truth; as will more appear in the ſequel of my Diſcourſe: But to proceed to</p>
+               <div type="accusation">
+                  <head>The Accuſation againſt us.</head>
+                  <p>In your Preſace you call us, <hi>poor deluded Souls, and by the Name of a contemptible and pernicious Sect;</hi> and blaſphemiouſly affirm, <hi>that it is made up of</hi> Impiety, Nonſence, <hi>and</hi> Abſurdities; <hi>and that we have not ſo much as the Shadow of Reaſon to ſupport us: From hence,</hi> ſay you, <hi>we will not ſubmit to the Tryal of it, being unca<g ref="char:EOLhyphen"/>pable of Argument, and that you wrote not that your Trea<g ref="char:EOLhyphen"/>liſe for our Sakes, that have not Reaſon and Argument</hi> (as you ſay) <hi>to anſwer you; but for the Sakes and Sa<g ref="char:EOLhyphen"/>tisfaction of the World, and of the Learned, who are capable</hi> (ſay you) <hi>to hear Reaſon and Argument.</hi>
+                  </p>
+               </div>
+            </div>
+            <div n="2" type="chapter">
+               <head>CHAP. II. <hi>ANSWER.</hi>
+               </head>
+               <p>AS to them Judging and Condemning Cenſures againſt us, ſhall be anſwered <hi>Chap.</hi> 15. And as to your Reaſon and Argument, you ſo much boſt of, I am willing to allow it its Prerogative, and
+<pb n="6" facs="tcp:59959:6"/>give it its due of having Government as to all Ter<g ref="char:EOLhyphen"/>reſtial Affairs.
+<note place="margin">Deut. 1.13. Acts 26.3. &amp; 18.14, 15.</note>
+               </p>
+               <p>But wherefore ſhould it enter upon God's Prero<g ref="char:EOLhyphen"/>gative, ſo as to take upon it to judg divine Things that are Eternal,
+<note place="margin">Luke 20.14.</note> by its unclean ſerpentine Reaſon.</p>
+               <p>But to ſuch as are learned in Faith's School doth know,
+<note place="margin">Matt. 11.25.</note> that he that doth Miniſter ſpiritual Things, is to lay Reaſon and Argument by, as to the ſind<g ref="char:EOLhyphen"/>ing out of any heavenly Secrets by the moſt perſingſt Reaſon that is.</p>
+               <p>For Reaſon is not Heaven-born,
+<note place="margin">James 3.15.</note> and ſo is but Na<g ref="char:EOLhyphen"/>tural; and it is the natural or moral Law that en<g ref="char:EOLhyphen"/>lightens it; but Faith being of another Nature, which is Spiritual,
+<note place="margin">Pſal. 19.7. John 1.4.</note> and ſo the Law of Faith ſerves to quick<g ref="char:EOLhyphen"/>en and enlighten Faith; and when it is enlightened, then ſhe Rules as Miſtreſs over Reaſon.</p>
+               <p>Therefore, though the Kingdoms of this World lys in Reaſon, yet the Kingdom of Chriſt lys in Faith, which ever appears ſimple,
+<note place="margin">John 18.36. Luke 17.21. 2 Cor. 1.12. Luke 1.53. &amp; 6.25</note> and yet it is this poor de<g ref="char:EOLhyphen"/>ſpiſed Seed that receives the Goſpel; its the Simple and the Fooliſh that catch Heaven: The Poor are filled with the Subſtance of ſpiritual Truth, when as the Rich in Reaſon, Notion, and Argument, are ſent empty away.</p>
+               <p>Therefore away with your Arguments where Faith is ſought,
+<note place="margin">Matt. 4.18. Amos 1.1. Acts 18.3. Coll. 2.8.</note> there the <hi>Fiſher,</hi> the <hi>Herds-man,</hi> the <hi>Tent-maker;</hi> Ai, and he that you call the <hi>Baker,</hi> rather than the <hi>Philoſopher,</hi> are to be truſted.</p>
+               <p>Do you teach the World by your Reaſon and Ar<g ref="char:EOLhyphen"/>gument, as you ſay; this manifeſts that you and your Brethren are the Worlds Miniſters, and the World hears you; and hence it is that you appeal to the World,
+<note place="margin">1 John 4.5. John 7.7.</note> for the World will Love its own.</p>
+               <pb n="7" facs="tcp:59959:6"/>
+               <p>Here now you appear to be a right Legoliſt,
+<note place="margin">Deut. 27. Judg: 17.10, 11, 12, 13.</note> in imi<g ref="char:EOLhyphen"/>tation of the <hi>Levits</hi> of old; for that Prieſthood was to teach Reaſon, the Moral Law for its reaſonable Service, that it ſhould not <hi>Murder, Commit Adultery, Steal,</hi> or <hi>bare falſe Witneſs,</hi> which Reaſon is ſubject to do.</p>
+               <p>But all the Prophets ſpiritual Declarations belong<g ref="char:EOLhyphen"/>ed to the Elect Seed of Faith,
+<note place="margin">Pſal. 119.100.</note> and was ſpoken into that innocent Nature that cannot do Evil, and that in order to a further degree of Knowledg, Love and Obedience.</p>
+               <p>Wherefore then, if by your Teaching you can keep your Diſciples in Sobriety and the Bounds of Reaſon, this is a Virtue, and brings with it the Temporal Bleſſing promiſed that Seed; but if ſo it be,
+<note place="margin">Deur. 28.2, 3, 4, 5, 6.</note> that your Reaſon will ſeek Lordſhip,
+<note place="margin">John 19.7. Mat. 18.6.</note> and would be a Judg and Controwler of Faith, it is nothing leſs than a Devil, and will be damn'd to Eternity.</p>
+               <p>And herein appears your Blindneſs, notwithſtand<g ref="char:EOLhyphen"/>ing your earthly Wiſdom,
+<note place="margin">Ezek. 34.17. Matt. 25.33. 1 John 1.17.</note> becauſe by it you cannot diſtinguiſh betwixt the Two Seeds of Faith and Rea<g ref="char:EOLhyphen"/>ſon, or the Law and the Goſpel. But to proceed, and come to the Matter in Queſtion.</p>
+               <p>Would you Prieſts have us be tryed by your Ar<g ref="char:EOLhyphen"/>guments? Then you are like to have the Cauſe, if you muſt be your own Judges, like the <hi>Jews</hi> by our Saviour, his Prophets and Apoſtles.</p>
+               <p>But this we preſume to tell you, that your Reaſon, being but Natural,
+<note place="margin">1 Cor. 2.13. 1 John 4.1. Rom. 2.2. Acts 17.2. &amp; 24, 25.</note> therefore it cannot try ſpiritual Truth, but our Faith can try your Arguments, and it can take up Reaſon as a Servant, to argue with you in the Balance of your own Reaſon, the Angels Na<g ref="char:EOLhyphen"/>ture fallen; nevertheleſs we can no more agree than the Prophet <hi>Jeremiah</hi> and thoſe National falſe Prieſts did in the like Diſpute.</p>
+               <pb n="8" facs="tcp:59959:7"/>
+               <p>Becauſe Faith, when it takes up Reaſon, it takes it up, not to expound and open the Sence of Scrip<g ref="char:EOLhyphen"/>ture Sayings, but as a Servant, to Illuſtrate that Re<g ref="char:EOLhyphen"/>vealed Word by Argument, for the further Con<g ref="char:EOLhyphen"/>founding of that unclean domineering Reaſon that doth oppoſe its ſpiritual Sence.</p>
+               <p>But on the contrary, when learned Reaſon takes up Words of Faith, it expounds it by the Imaginati<g ref="char:EOLhyphen"/>on of Reaſon,
+<note place="margin">Rom. 1.25. Revel. 3.9.</note> in reſpect its Reaſon is Lord in its Soul, and ſo turns Truth into a Ly; and the Elo<g ref="char:EOLhyphen"/>gancy of its Speech muſt form the Subſtance of the Matter,
+<note place="margin">1 Cor. 1.20. Revel. 11.2.</note> and then War is proclaimed againſt the Truth, and ſo Truth muſt be trod under Foot.</p>
+               <p>Thus did the falſe Prieſts deal by <hi>Jeremiah, Come,</hi> ſay they,
+<note place="margin">Jer. 11.19.</note> 
+                  <hi>let us deviſe Deviſes againſt him, and let us deſtroy the Tree with its Fruit, and let us out him off that his Name may be no more Remembred:</hi> That is, let us deſtroy his Perſon, which is the Tree; and let us deſtroy its Fruit, that is, his Doctrin or Declarati<g ref="char:EOLhyphen"/>ons, for he is in bringing in another Prieſthood, there<g ref="char:EOLhyphen"/>fore Report and we will Report;
+<note place="margin">Jer. 18.18. &amp; 20.10. &amp; 2.8. Mal. 2.7.</note> let us frame our Arguments againſt him, for he ſaith, <hi>That they that handle the Law know not God,</hi> when as it is written, <hi>That the Law ſhall not periſh from the Prieſts, nor Coun<g ref="char:EOLhyphen"/>ſel from the Wiſe.</hi>
+               </p>
+               <p>Miſrepreſenting Doctor, are not your Arguments an<g ref="char:EOLhyphen"/>ſwerable to theirs, even to a Hair: Therefore as true Wiſdom was departed from them, ſo it is now from you, and from all thoſe National pretended Goſpel-Miniſters, tho you boſt as they did; yet have you no<g ref="char:EOLhyphen"/>thing but an empty Title, not ſo much as a grain of ſpiritual Senſe appeareth; but as it was their Blind<g ref="char:EOLhyphen"/>neſs, ſo it is yours, who underſtand not, that the ſpiritual Law of Faith will never depart from that
+<pb n="9" facs="tcp:59959:7"/>Spiritual Prieſt, the true Chriſtrian,
+<note place="margin">Ezek. 7.26, 1 Pet.</note> but his Lips ſhall ever preſerve true Knowledg: And this Prieſthood will never terminate, but will be with them to the end of the World.</p>
+               <p>For after Faith is enlightened by a Commiſſion from Heaven, then it needs no other Teacher,
+<note place="margin">1 John 2.<gap reason="illegible" resp="#UOM" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>.</note> but that Uncti<g ref="char:EOLhyphen"/>on which it hath received; for the Spritit of Faith is Chriſt's Vicar.</p>
+               <p>But your outward viſible Worſhips that are taken up from former Commiſſions, they are ended, and the ſpi<g ref="char:EOLhyphen"/>rit of God is gone out of them; but this will bring a Box upon my Cheeks, by you Non-Commiſſionated Miniſter, as your Predeceſſor did to <hi>Micaiah</hi> the Prophet, with a,
+<note place="margin">1 Kings 22.2<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>.</note> 
+                  <hi>Which way went the ſpirit of God from me to thee.</hi>
+               </p>
+               <p>But as the Law of Faith,
+<note place="margin">Iſa. 59, 21, Heb. 10.58.</note> which we have known and received, will never depart from us, ſo we need not to your aſſumed counterfit Prieſthood, but live by our own generated Faith now awakened, or eluminated,
+<note place="margin">Epheſ. 5.14.</note> by the Doctrin of this Commiſſion of the ſpirit; for we have no new Faith given, but the old awakened, as a<g ref="char:EOLhyphen"/>foreſaid; for Faith was but once given,
+<note place="margin">2 Pet. <gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>.18.</note> and every Com<g ref="char:EOLhyphen"/>miſſionated Prophet, Meſſenger, or Miniſter of God, Ads a further Light and Knowledg to it.</p>
+               <p>So that now, through Grace, we have attained to a more principal Degree of Knowledg of the true God, and the right Devil, than others had before us; ſo that from hence, we are not wanting in Wiſdom to anſwer your ſtrongeſt Arguments your Reaſon can deviſe,
+<note place="margin">
+                     <gap reason="illegible" resp="#UOM" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap>. <gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>1.<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>1.</note>
+               </p>
+               <p>Therefore muſter up your Army, raiſe all your Forſes, from all parts, and from all your Prieſts that you have diſtributed your Books to; yet ſhall you never be able to diſprove by your Subtilty, quell by your Power,
+<note place="margin">
+                     <gap reason="illegible" resp="#UOM" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap>
+                  </note> or ſubdue by your Force, the <hi>Muggletonian</hi>'s Principles, be<g ref="char:EOLhyphen"/>cauſe Salvation, and nothing leſs is their aſſured Walls and Bulworks.</p>
+               <pb n="10" facs="tcp:59959:8"/>
+               <p>But to your following Arguments, I apply myſelf to Anſwer by truth of Scripture.</p>
+               <div type="accusation">
+                  <head>The Accuſation againſt us.</head>
+                  <p>In Page the Firſt, you make your Book to conſiſt of Two <hi>Queries. Firſt,</hi> Whether <hi>John Reeve,</hi> and <hi>Lodowick Muggleton,</hi> are ſent of God. <hi>Secondly,</hi> Whether they are the Witneſſes ſpoken of in the 11th. of the <hi>Revelations.</hi>
+                  </p>
+                  <p>To your <hi>Firſt Querie;</hi> you have largely repeated ſe<g ref="char:EOLhyphen"/>veral of their Saings, which you ſay, they pretend to be true Characters, and Evidences of their Commiſſion. Now, after your Ramble in Page the 4th. your Firſt Evi<g ref="char:EOLhyphen"/>dence is, That <hi>John Reeve</hi> ſaith, <hi>That God ſpake to him Three Mornings together:</hi> And ſay you, <hi>Muggleton</hi> ſaith, <hi>That it is God's ſpeaking plain Words, to the hearing of the outward Ear, as well as the inward Soul, that doth make a Man a Commiſſioner.</hi>
+                  </p>
+                  <p>
+                     <hi>This Evidence,</hi> ſay you, <hi>is of no value; becauſe,</hi> ſay you, <hi>I cannot tell, whether it be a true Voice, or an imaginary ly<g ref="char:EOLhyphen"/>ing Voice, ſuch a one as</hi> John Reeve <hi>ſaid was in</hi> John Ro<g ref="char:EOLhyphen"/>bins: <hi>It is,</hi> ſay you, <hi>but their ſay ſo.</hi> And then you conclude ſaing; <hi>For let their Voice be never ſo true, if it be alone, and without the viſible Evidence of working Miracles, it is of no value: As alſo,</hi> you ſay, <hi>it muſt be proved by Scrip<g ref="char:EOLhyphen"/>ture;</hi> without which you make it of no value, <hi>&amp;c.</hi>
+                  </p>
+               </div>
+            </div>
+            <div n="3" type="chapter">
+               <pb n="11" facs="tcp:59959:8"/>
+               <head>CHAP. III. <hi>ANSWER.</hi>
+               </head>
+               <p n="1">1. THis your way is to overthrow all Propheſy:
+<note place="margin">Numb. 11.29. 2 Pet. 1.19. 1 Theſ. 5.20.</note> You will tie God to worke Miracles, or you will not belive him: Either God muſt do as you will have him, or he muſt not be God.</p>
+               <p>It is no wonder that you cannot diſtinguiſh between a true Voice and a falſe; becauſe God never choſe you by Voice, nor never will. But how ſhould you believe a vocal Voice, when as your God has never a Tongue: You have made it here plainly appear, that you are of the ſame Spirit of thoſe murthering <hi>Jews</hi> who bid Chriſt, <hi>come down from the Croſs and they would belive in him.</hi>
+                  <note place="margin">Matt. 27.42.</note> True Doctrin, without Miracles, is to you moſt deteſtable.</p>
+               <p n="2">2. Again,
+<note place="margin">Iſa. 6.8. &amp; 52.1.</note> was not all true Prophets choſen by voice of Words; nevertheleſs the Seed of the Serpent could ne<g ref="char:EOLhyphen"/>ver believe them,
+<note place="margin">Jer. 15.10.</note> neither could the Prieſts or Rulers ever abide them; and there was few of them but what was either Perſecuted or put to Death,
+<note place="margin">1 Kings 18.22.</note> by the Magiſtrates and their National Prieſts: There was 450. falſe Prophets, muſtred up againſt Too or Three true Prophets, as <hi>E<g ref="char:EOLhyphen"/>lijah</hi> and <hi>Micaiah;</hi> and one of them muſt ſtrike <hi>Micaiah</hi> one the Cheek; as aforeſaid, and this Prieſt and <hi>Ahab</hi>'s Son flung him down to bracke his Neck.</p>
+               <p>But <hi>Elijah,</hi> the Repreſentor of God's Perſon, by Word of Power ſlew them all,
+<note place="margin">Z<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ph. 1.4.</note> as a Tipe of the Deſtruction of all falſe Prophets, and falſe Prieſts, at the end of the World: Such a Miracle you want.</p>
+               <p>When <hi>Iſaiah</hi> Propheſied of his God's becoming Fleſh,
+<note place="margin">Iſaiah <gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>5.1.</note> not one would believe him, neither Prieſt nor People:
+<pb n="12" facs="tcp:59959:9"/>Therefore, ſaid he, <hi>Lord, who hath believed our Re<g ref="char:EOLhyphen"/>port;</hi>
+                  <note place="margin">1 Kings 19.</note> and <hi>Elijah</hi> ſaid, <hi>That all were gon after</hi> Baall. Nor regarded Truth, for that was ever hated; <hi>I hate him,</hi> ſaid <hi>Ahab,
+<note place="margin">1 King 22 8.</note> for he never ſaid Good of me, but Evil;</hi> It's now as it was then, unleſs we could bring Fire from Heaven, as <hi>Elijah</hi> did, there can be no Belief; and it muſt be to de<g ref="char:EOLhyphen"/>ſtroy them; it might Convince them, but it would ne<g ref="char:EOLhyphen"/>ver Convert them.
+<note place="margin">Pſal. 78.32.</note>
+               </p>
+               <p>If Miracles were wrought now, what would it avail this bloody unbeliveing World; they would but ſay as the <hi>Jews</hi> ſaid of Chriſt,
+<note place="margin">Matt. 12.2<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>.</note> 
+                  <hi>That they were don by the Devil.</hi>
+               </p>
+               <p>But what ſaid <hi>Paul,</hi> Toungues and Miracles are but for a Signe, not to them that believe, but to them that believe not;
+<note place="margin">1 Cor. 14.22. John 10.4<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>.</note> but Propheſy ſerveth for them that be<g ref="char:EOLhyphen"/>lieve only: <hi>John</hi> the <hi>Baptiſt,</hi> a great Prophet, and yet did no Miracle.</p>
+               <p>Thus you call in queſtion the glorious Truths of God, under pretence of <hi>John Reeves</hi>'s Weakneſs, as to outward Miracles, that you might believe, when as his Commi<g ref="char:EOLhyphen"/>ſſion is all ſpiritual.</p>
+               <p>Now the Seed of Faith believes not, becauſe of the Miracles wrought, by the Lord or his Prophets; but in that they were of the Election, and fore-ordain'd to believe, for the ſaving of the Soul; and as the Chriſti<g ref="char:EOLhyphen"/>an Dove waits for a Sign within him, or from behind Reaſon,
+<note place="margin">
+                     <gap reason="illegible" resp="#UOM" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> 30.21.</note> for a Word ſaying, <hi>This is the Way, walk in it:</hi> Even ſo, on the contrary, the carnal Serpent, he re<g ref="char:EOLhyphen"/>quires a natural Sign before his Reaſon, that may be ſeen with his outward Eye, to make him believe ſpiri<g ref="char:EOLhyphen"/>tual Truths; and therefore Reaſon Cries, ſaying, <hi>Where are you Miracles, and where is your Scripture Evi<g ref="char:EOLhyphen"/>dence to prove it:</hi> Prove by Scripture.</p>
+               <p>Now if this Witneſs ſhould write nothing but what is exactly ſet down in Scripture, then ſhould they
+<pb n="13" facs="tcp:59959:9"/>write nothing at all: But always true Propheſy hath ſomthing new to deliver.
+<note place="margin">J<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>r. 31.22.</note>
+               </p>
+               <p>Again, Did the Prophets and Apoſtles write,
+<note place="margin">Matt. 15.32. 2 Pet. 1, 21.</note> by Imitation, or Study, or by Inſpiration only; they might allude ſomtimes to the Prophets Words for Convincing of Gainſayers.</p>
+               <p>Furthermore, the Scriptures in themſelves are Words of pure Truth, to all that ſpiritually diſſern them; and that is, ſuch as have the Life and Power of them in their own Souls;
+<note place="margin">John 6.63.</note> but they that have not the inner Life and Meaning thereof, they ſtudy the outward Letter by their Reaſon, to find the Life and Meaning thereof,
+<note place="margin">O<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ed. 6.8. John 7 52.</note> and then, this their Imagination, the Child of ſtudy, trumpits out it's own Conceptions upon it.</p>
+               <p>This is the work and way of all the ſeven Anty Church<g ref="char:EOLhyphen"/>es of <hi>Europe,</hi> every one of them endeavouring to prove their Miniſtry by the Letter of the Scripture, or by the Light within them; but never a one from the glorious Voice of the everliving God without them: And from hence, though they Judg and Condemn each other for falſe, whilſt they are all falſe, yet can they agree to Fight againſt God and his true Prophets, by the Letter of the Scripture.</p>
+               <p>And you keep theſe Cheſts and Boxes of preſions things, but the Jewels and Treaſure is quite gon, and is a Stranger to you; you know it not, but do Deſpite unto it, and put your own Imaginations into the Letter,
+<note place="margin">2 Pet. <gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>.3. verſe 3. <gap reason="illegible" resp="#UOM" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> 
+                     <gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>.10.</note> and ſo turn and wind it about like a Noſe of Wax, and make it ſpeak for your Honour and Riches. Oh! how profitable hath this Letter of the Scriptures been to Reprobate Preachers.</p>
+               <p>Wherefore then, we who are called <hi>Muggletonians,</hi> in ſcorn do boldly affirm, That though you have got the Letter of the Scriptures, and run away with it, as a
+<pb n="14" facs="tcp:59959:10"/>Dogg doth with a Bone, yet none of its ſpiritual Decla<g ref="char:EOLhyphen"/>rations were ever written for your Inſtruction,
+<note place="margin">Rom. 15.4. Deut. 4.6. Jer. 9.23.</note> but for the Inſtruction of the Seed of Faith: For the Law only belongs to you, and it may make you wiſe, but not unto Salvation; that's the Property of the Goſpel to the Seed of Faith, the Seed of the Lord's own Body; for it is the Man of God that is made Wiſe unto Salvation;
+<note place="margin">2 Tim. 31.15.</note> ſo that he muſt be a Man of God, and have Faith in thoſe Scriptures, before he can be Wiſe unto Salvation, becauſe they are given by Inſpiration of the holy Spirit, and no Man can know them but by the ſame Spirit as thoſe had that wrote them.</p>
+               <p>Theſe things conſidered, how then is it poſſible that you ſhould apply Scripture to purpoſe, when your Wiſdom is not Inſpiration,
+<note place="margin">1 Cor. 4.20.</note> but Education; what will your Form do to you without the Power: If you have the Words of God, and not that Word which is God, what good will your Word do you.</p>
+               <p>What Commiſſion have you to preach to the People; Chriſt tells you that you are but Thieves and Robbers climbing up to Heaven by Ordinances of your own, and your own ſtollen Doctrine;
+<note place="margin">John 10.1.</note> for you ſteal the Words from your Neighbour, the Seed of Faith, and then Cry, <hi>Thus ſaith the Lord.</hi>
+               </p>
+               <p>What do you bring as an Offering, but what you have ſtolen from others; do you delver anything but Traſcriptions and Hiſtorical Notions, the Repetitions of the Letter of the Scriptures. and the Sentences of the antient Fathers;
+<note place="margin">2 Cor. 10.16.</note> there is the Line you boaſt in, ſo that you do no more, in ephect, but rob the Dead to cloath the Living: For have you ſo muth as opened the Meaning of one Text of Scripture in all your blind Pamphlet; you have named the Words, and then left them to Anſwer for them ſelves, as I ſhall ſhew here<g ref="char:EOLhyphen"/>after.</p>
+               <pb n="15" facs="tcp:59959:10"/>
+               <p>Again, you further Object againſt their Doctrin of Infalibility, in that they ſay, <hi>They write by an unerring Spirit: Now,</hi> ſay you, <hi>an Infalible Spirit implys the higheſt Certainty: But,</hi> ſay you, <hi>his Book is Inconſiſtant with it ſelf;</hi> for <hi>Muggleton</hi> ſaith, <hi>I am perſwaded in my ſpirit, and I do rather belive that there were Seven Hundred Thouſands, than Seven Thouſands,
+<note place="margin">Revel. 11.13.</note> though the Revelation of</hi> John <hi>doth but expreſs it but Seven Thouſands: Now,</hi> ſay you, <hi>to be perſwaded, and to belive a Thing to be ſo, are Inconſiſtant to Infalibility; for that admits no leſs than I am ſure of it,</hi> ſay you.</p>
+            </div>
+            <div n="4" type="chapter">
+               <head>CHAP. IV. <hi>ANSWER.</hi>
+               </head>
+               <p>THE Prophets did both of them write, by an infalli<g ref="char:EOLhyphen"/>ble and un-erring Spirit, the Doctrine of them Six Principles, the Knowledg of which,
+<note place="margin">John 17.3.</note> Salvation doth depend upon; but as to ſome perticular Points that are beſides the Foundation, there is not that Neſſeſſity to be ſo poſitive. But as to the Eſſential Points of Faith, they were written by an un-erring Spirit, and are infallibly True; and againſt Men and Angels they affirm it, and we as truly believe it, to the great Peace and Satisfaction of our Minds: For what is it that can ſatisfy the Mind of Man but Truth, having the Seal of Life in it, as every true Miniſter of God hath.</p>
+               <p>For every true Miniſter of God hath Power to ſet Life and Death before Men and can ſay,
+<note place="margin">Matt. 18.18.</note> 
+                  <hi>Now is fulfilled ſuch and ſuch Things:</hi> Alſo he that is ſent of God,
+<note place="margin">1 Cor. 2.15.</note> knoweth the Things of God, and he that believeth in ſuch a One, knoweth the Things of God likewiſe.</p>
+               <pb n="16" facs="tcp:59959:11"/>
+               <p>But how can you judg of Infalibility; that do not own your ſelf Infalible, but Falible? What is Falible but a Lye, and muſt a Lye be the Judg of Truth? He that knoweth the Mind of the Lord, he may Inſtruct from the Lord;
+<note place="margin">1 Cor. 2.15. Verſ. 16.</note> but he that hath not the Infalible Spirit, doth from his lying Spirit preſcribe Rules to God, and would be God's Counſellor.</p>
+               <p>Now muſt ſuch ignorant, carnal, ſleſhly Men as theſe Judg Infalibility, that have, nor own no other Spirit but what is Falible: But to come to the Point and Charge againſt <hi>Lodowick Muggleton.</hi>
+               </p>
+               <p>For although the Prophets and Apoſtles were Infalible, as to all eſſential points of Faith; yet as to other things that were circumſtantial, and not ſo eſſential, in ſuch things Prophets and Apoſtles may differ about them in their Experience and Judgment.</p>
+               <p>Thus <hi>Paul</hi> withſtood <hi>Peter,</hi>
+                  <note place="margin">Gal. 2.11.</note> and Reproved him; and though <hi>Paul</hi> there gainſaid <hi>Peter,</hi> yet in ſom other things <hi>Paul</hi> himſelf was not poſitive: As for Inſtance, <hi>Paul</hi> treating on Marriage,
+<note place="margin">1 Cor. 7.6.</note> he ſpeaks as the Prophet <hi>Mugglet<g ref="char:EOLhyphen"/>on</hi> doth here, and tells the Believers, <hi>That it was his Jud<g ref="char:EOLhyphen"/>ment, That it were better for them not to Marry:</hi> And fur<g ref="char:EOLhyphen"/>ther adds <hi>That he</hi> [thinks,]
+<note place="margin">
+                     <gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> V<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ſe 39.10.</note> 
+                  <hi>That this his Judment is right, and that it was from the Spirit of God.</hi>
+               </p>
+               <p>Now, I preſume, (by what you have ſaid of theſe) that had you been living then, and had heard of <hi>Paul</hi>'s talking of having the Infalible Spirit of God, you would preſently have judged him a falſe Apoſtle, notwithſtand<g ref="char:EOLhyphen"/>ing the Miracles he had done; and that he had contradict<g ref="char:EOLhyphen"/>ed himſelf; and that his <hi>[thinking]</hi> was inconſiſtant to his Infalibility, and ſo was not to be Believed.</p>
+               <p>Again, if you had heard that <hi>Paul</hi> Circumciſed <hi>Timo<g ref="char:EOLhyphen"/>thy,</hi>
+                  <note place="margin">Aſts 16.3.2. Gal. 5.2.</note> and yet nevertheleſs told the <hi>Galatians, That if they were Circumciſed they could not be Saved.</hi> I ſay, had you
+<pb n="17" facs="tcp:59959:11"/>been in thoſe Days, Would not you have ſaid, <hi>That</hi> Paul <hi>had Contradicted himſelf, and the Scriptures both?</hi>
+                  <note place="margin">Matt. 28.2. Luke 24.2.</note> and would not you alſo have judged the Four Evangeliſts to have Contradicted one another in ſe<g ref="char:EOLhyphen"/>veral places; for as you Judg and Condemn theſe, ſo you would have Judged them, for theſe were ſent by Je<g ref="char:EOLhyphen"/>ſus Chriſt, and <hi>Paul</hi> was ſent by no other God.</p>
+               <p>Again, in <hi>Page</hi> 9. you quote <hi>John Reeve,</hi> ſaying, that he ſaith, <hi>That he is Indued with a divine Gift, to write a Volom as large as the Bible; and as pure a Lan<g ref="char:EOLhyphen"/>guage as that is, without looking into any Book, or having any real Contradiction in it.</hi> Upon theſe Words you make the Reflection fallowing.</p>
+               <div type="accusation">
+                  <head>Your Accuſation runs thus, ſaying.</head>
+                  <p>
+                     <hi>That if the purity of the Language be a Sign of</hi> Truth. <hi>Then,</hi> ſay you, I <hi>am ſure it is far from being either True or Infallible. For,</hi> ſaid you, <hi>they do not write true</hi> Engliſh, <hi>nor good Sence;</hi> as likewiſe, <hi>it often fails in the propriety of Words, in Concord; and Connexion; being without Method, Purity, or Elogancy,</hi> &amp;c.</p>
+               </div>
+            </div>
+            <div n="5" type="chapter">
+               <pb n="18" facs="tcp:59959:12"/>
+               <head>CHAP. V. <hi>ANSWER.</hi>
+               </head>
+               <p>SIR, in Anſwer to this, The truly Wiſe do know, that God's Meſſengers never regard fineneſs of Speech, but ſoundneſs of Matter: Not ſo much the Original of Words as the Original of Things, even ſuch as they, are moved too by the Holy Ghoſt; and not ſuch Language as you are moved too by your Educated Spirit of Reaſon; which is the Angels nature Fallen: But in that, you have no where contradicted our Principle, which ſhews what the Perſon and Nature of Angels are; therefore there is no Occaſion given here to Diſpute it; but to Return to the matter aforeſaid.</p>
+               <p>Spiritual Truth, or Goſpel Life, was ever plain, and was never delivered with new quined or high<g ref="char:EOLhyphen"/>flown Words of Man's Wiſdom.
+<note place="margin">1 Cor. 2.1.</note> This made an old learned Philoſophical Biſhop Judg ſo hard by the <hi>Revelation</hi> by <hi>John,</hi> not thinking it <hi>John's,</hi> becauſe of the Rudeneſs of the ſtile:
+<note place="margin">Dioniſius.</note> 
+                  <hi>For,</hi> ſaid he, <hi>I ſee his Greek not exactly uttered, the Dialect and Phraſe not obſerved: I find him,</hi> ſaid this Biſhop, <hi>uſing barbarous Phraſes.</hi>
+               </p>
+               <p>And <hi>Paul</hi> was called <hi>a clouter of Skins, a Cobler</hi> by the Philoſophers, and <hi>a Man of no Breeding:</hi> And he acknowledged himſelf but rude in Speech, though not in true Wiſdom; but he had taken ſome Learning up at the Foot of <hi>Gamalial,</hi> but he laid it down there again, as ſoon as the Spirit of Faith became his Teacher: All his Wiſdom that he now valued, was the Knowledg of Chriſt Crucified, and Riſen
+<pb n="19" facs="tcp:59959:12"/>again; which his former Wiſdom could not know,
+<note place="margin">Acts 22.3.</note> but on the contrary, was the Perſecutor of him.</p>
+               <p>Again, Spiritual Truth, or Faith, was ever brought in Naked and Simple, and in poor Array: But Falſhood doth ever indeavor to Attire herſelf in all her Bravery. <hi>Theſe Raſcals,</hi> ſaid the <hi>Phariſes, are Accurſed, they know not the Law: But</hi> ſaid <hi>Paul,
+<note place="margin">1 Cor. 12.8.</note> That Learning of theirs will com to nought</hi>
+               </p>
+               <p>But as for Truth, That guides to Heaven;
+<note place="margin">John 1.4.</note> it needs no Gloſs to make it ſeem better then it is, for it hath Light enough in it ſelf, to ſhew it the way to Heaven.</p>
+               <p>The Scriptures were written in as homely a ſtile as <hi>Reeve</hi>'s and <hi>Muggleton's</hi> were; only wiſe Men in Reaſon, have put them into a better Form, and now boaſt of their litteral Accuteneſs, whilſt they are out of all ſpiritual Power; and it muſt be ſo,
+<note place="margin">1 Cor. 13.1.</note> for he that hath learned nothing of Truth, muſt Teach by an Eloquent Tongue of empty Words only.</p>
+               <p>For Sophiſters, who want ſubſtance of Truth, muſt uſe-their Sophiſtry, to corrupt Truth, and adulterate the true Sence, and then cover their own Errors with Paint.</p>
+               <p>And thus have you done. in this Libel of yours; for in Page 18. you affirm, That <hi>John Reeve</hi> doth ſay, (pretending to quote his Words) <hi>That the Subſtances of Earth and Water were from all Elements:</hi> When as <hi>John Reeve</hi>'s Woords were in that place, <hi>That the Sub<g ref="char:EOLhyphen"/>ſtance of Earth and Water was from all Eternity.</hi>
+               </p>
+               <p>Thus you turn their good Sence into Nonſence, and ſo bely them; for by this your way of clowding their Words you would darken the Sence, and make them appear the more Rediculous; and to prevent a further Diſpute in that Subject, <hi>of the Subſtance of Earth
+<pb n="20" facs="tcp:59959:13"/>and Water being made of nothing,</hi> which you were not able to maintain; and though you ſay, <hi>you would confute that Principle,</hi> yet paſſed it by, and would ſay no more of it: And ſo you let it drop.</p>
+               <p>Now, as to your Elogancy of Speech; your Tongues and Languages you boſt ſo much of (and you have need of it to paint your Errors, as afore<g ref="char:EOLhyphen"/>ſaid) we will leave this all to you <hi>Babal</hi> Builders,
+<note place="margin">Revel. 18.31.</note> as acquired by your Study and Learning; it being your Trade, which teacheth your Reaſon to play up<g ref="char:EOLhyphen"/>on the Letter of the Scripture as upon a Harp, being very mellodious to the outward Ear: And by theſe means you <hi>(Arts-Maſters)</hi> grow Rich and Honoura<g ref="char:EOLhyphen"/>ble, according to your skilful Merchandiſing of the Letter of the Scripture,
+<note place="margin">Revel. 18.7.</note> and Antient Fathers and Philoſophers: Theſe muſt all be made to agree toge<g ref="char:EOLhyphen"/>ther, for the Scripture muſt either make good Philo<g ref="char:EOLhyphen"/>ſophy, or elſe Philoſophy muſt be brought to make good the Scripture; and in your wiſe handling of this, you grow Rich; ſome <hi>Hundreds,</hi> ſome <hi>Thonſands</hi> a Year, equalling the great Men of the Earth; and as to others of your Brethren, though they be more inferior, yet muſt they be called Maſters, although they be but Servants; yet will they be well paid, <hi>for no Penny, no Paternoſter.</hi>
+               </p>
+               <p>So having found you all in the way of <hi>Balam,</hi> to Bleſs and Curſe for Mony, which is your Souls chief Delight, there I leave you to go on in your Trade, and receive your Wages of Men here, and of God hereafter,
+<note place="margin">M<gap reason="illegible" resp="#UOM" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap> 3.7. M<gap reason="illegible" resp="#UOM" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap> 3.11. John <gap reason="illegible" resp="#UOM" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>13. Jude 11. P<gap reason="illegible" resp="#UOM" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>l. 3.19. Matt. 1.5. &amp; 7.23.</note> whom you pretend to ſerve; then will you have a fall Reward.</p>
+               <p>A further Accuſation againſt this Witneſs you have, for affirming <hi>the Power of Sealing Men up unto Eternal Life and Death, as they Receive or Diſpiſe
+<pb n="21" facs="tcp:59959:13"/>their Doctrin:</hi> This you deny, that any Man ever had this Power: Saying, <hi>That it is quite contrary to the Scripture, and the Temper of the Goſpel, which is Love;</hi> and then bid us prove it by Scripture.</p>
+            </div>
+            <div n="6" type="chapter">
+               <head>CHAP. VI. <hi>ANSWER.</hi>
+               </head>
+               <p>IT is confeſſed by us,
+<note place="margin">Titus 2.11. Epheſ. 1.5.</note> that the Tmper of the Goſ<g ref="char:EOLhyphen"/>pel is <hi>Love;</hi> but then that Goſpel and Eternal Love is but to the Seed of the Lords own Body, and it muſt needs be ſo, becauſe that Grace is written in Faiths Nature; and though that Seed did fall in <hi>Adam,</hi>
+                  <note place="margin">John 10.27.</note> yet the Goſpe<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> came to ſeek and to ſave that which was loſt and fell in <hi>Adam;</hi> for the <hi>Serpent</hi>'s Seed never fell in <hi>Adam,</hi>
+                  <note place="margin">M<gap reason="illegible" resp="#UOM" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>k 2.17.</note> nor never knew themſelves loſt. So the Goſpel belongs not to them, but ac<g ref="char:EOLhyphen"/>cording to their Obedience to their own Law, ſo they have the Bleſſing of the Law, <hi>That the Rain may Rain, and the Sun may Shine,
+<note place="margin">Mart. 5.45.</note> and the Earth bring forth her Increaſe, with long Life and Health:</hi> And thus <hi>Chriſt,</hi> which is the Goſpel, ſhewed his Love to that Seed, when he wept over <hi>Jeruſalem:</hi>
+                  <note place="margin">Luke <gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>.6. &amp; 14.14.</note> Now as he was Man, he wept to ſee what temporal Judgments they would bring upon themſelves.</p>
+               <p>But then, on the other hand, as he was God,
+<note place="margin">Ma<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>t 22 13. J<gap reason="illegible" resp="#UOM" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap> 6.7 Ma<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>t: <gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>. &amp; 13. 11. &amp; 11.34.</note> he rejoiced at their eternal Deſtruction; for upon their deſpiſing thoſe Declarations of his, he thereupon pro<g ref="char:EOLhyphen"/>nounces upon them eternal Wrath; calling ſuch <hi>Divels, Scrpents, and a Generation of Vipers,
+<note place="margin">John 12.10.</note> and that
+<pb n="22" facs="tcp:59959:14"/>they ſhould not eſcape the Damnation of Hell:</hi> And <hi>John</hi> the Baptiſt pronounced the like Sentence; and all the Apoſtles had the like Power after they had received their Commiſſion.</p>
+               <p>As for that Saying of <hi>Chriſt</hi>'s to them,
+<note place="margin">matt. 5.44.</note> 
+                  <hi>To Bleſs, and Curs not;</hi> that was but when they were but private Believers; as alſo, it taught that Clemency, as <hi>not to reſiſt temporal Iujuries:</hi>
+                  <note place="margin">matt. 16.19.</note> But when they had received the Holy Ghoſt, then was <hi>the Keys of Heaven and Hell Committed to their Charge;</hi>
+                  <note place="margin">Luke 10.16.</note> and they had Power by them, <hi>to Bind and to Looſe, to Remit and to Retain Sin.</hi>
+                  <note place="margin">Luke 20.23.</note> What was that but Bleſſing and Curſing? For the Bleſſing of a Commiſſionated Prophet or Apoſtle,
+<note place="margin">Pſal. 24.7.</note> it opens the Gate of Heaven; that is, it opens the Heart in Love, to that God that ſent ſuch a Meſſage <hi>of glad Tidings of Salvation:</hi> So on the Contrary, the Curſe of a Prophet, it opens the Gate of Hell; That is,
+<note place="margin">Acts 7.54.</note> it opens the Heart in Envy, Malice, and Revenge; and whoſe Heart that ſpiritual Key doth open no Man can ſhut; and whoſe Heart they ſhut no Man can open.</p>
+               <p>Therefore it was that <hi>Paul</hi> ſaid, <hi>That they were the Saver of Life unto Life,
+<note place="margin">1 Cor. 6.2. Heb. 10.29. Theſſ. 5.20.</note> unto thoſe that believed them, and the Saver of Death unto Death unto thoſe that de<g ref="char:EOLhyphen"/>ſpiſed them.</hi> Again, <hi>Paul</hi> and the reſt of the Apo<g ref="char:EOLhyphen"/>ſtles, did declare, <hi>That whoever denyed the Faith of Jeſus, or deſpiſed Propheſie, or turned Apoſtate, that there could be no Sacrifiſe for ſuch Sins,
+<note place="margin">1 John 3.8. &amp; 5.16. 2 Cor. 2.16.</note> neither were ſuch to be Prayed for;</hi> but upon the contrary, <hi>to be ſealed up unto eternal Death.</hi>
+               </p>
+               <p>All the Spiritual Declarations of the Prophets reach to the eternal State of Man, for they pointing at <hi>their God's becoming Fleſh,</hi> and that, <hi>upon his Death and Reſurrection the eternal State of the Two Seeds of</hi>
+                  <pb n="23" facs="tcp:59959:14"/>Faith <hi>and</hi> Reaſon <hi>takes being;</hi> for the Reſurrection of <hi>Chriſt</hi> gains Power to raiſe the Dead, and give each Seed his Reward.</p>
+               <p>And therefore the Goſpel apropriates <hi>David</hi>'s Key to belong to it,
+<note place="margin">Pſal. 149.4.</note> which Key lyes in ſuch and the like Sayings, <hi>The Lord takes Pleaſure in his People, he will beautifie the Meek with Salvation;</hi> this is the Key that opens Heaven: And as follows, <hi>Let the high Praiſes of God be in their Mouth, and a two-edged Sword in their Hand;</hi> and then with the other Key and Sword, <hi>To execute Vengance upon the Heathen, and Puniſhments upon the People; To bind their Kings with Chains, and their Nobles with Fetters of Iron; To execute upon them the Jndgment written:</hi> And this is the Key that opens and none can ſhut, and ſhuts and no Man can open.
+<note place="margin">Pſal. 149.9.</note> 
+                  <hi>This Honour,</hi> ſaith <hi>David, belongs to all living Saints.</hi> For theſe Keys and Sword belongs to all Saints;
+<note place="margin">Iſa. 54.17. &amp; 57.4.</note> and <hi>David</hi> himſelf, in thoſe and the like Sayings, had flung into the Fire all that diſpiſed his Spirit of Pro<g ref="char:EOLhyphen"/>pheſie, <hi>of his God's becoming Fleſh,</hi> and Sealed them up in theſe Words; Saying, <hi>divide their Tongues,
+<note place="margin">Pſal. 55.9.</note> for I have ſeen Violence in the City. Caſt them down in thy Anger, Conſume them in Wrath,
+<note place="margin">Pſal. 59.13.</note> let not them come into thy Righteouſneſs, blot them out of the Book of Life, and let them not be written with the Righteous;
+<note place="margin">Pſal. 140.10.</note> Let burning Goals fall upon them; let them be caſt into the Fire.</hi>
+               </p>
+               <p>The Prophet <hi>Jeremiah</hi> likewiſe, meeting with the Seed of the Serpent, oppoſing his ſpiritual Declara<g ref="char:EOLhyphen"/>tions, concerning <hi>God's becoming Fleſh,</hi> and his Suffe<g ref="char:EOLhyphen"/>rings by that Seed, Seals them up to Death Eternal; for they were for deviſing Deviſes againſt that Do<g ref="char:EOLhyphen"/>ctrine of his; therefore he powereth forth theſe Im<g ref="char:EOLhyphen"/>precaſions againſt them; ſaing, <hi>O Lord,
+<note place="margin">Jor. 18.23. &amp; 29.22.</note> forgive not their Iniquity, neither blot out their Sin from thy Sight,</hi>
+                  <pb n="24" facs="tcp:59959:15"/>&amp;c. And then changing his Words, he ſpeaks in the Perſon of God ſaying,
+<note place="margin">Jer. 23.14.</note> 
+                  <hi>They are all unto me as</hi> Sodom. So that we ſee that the Prophit's Curſe is God's Curſe:
+<note place="margin">Jer. 6.30.</note> And further ſaith he, <hi>The Saints ſhall call them Reprobate Silver.</hi>
+               </p>
+               <p>This is Goſpel Power; the Lawes Curſe penetrades down into the Grave,
+<note place="margin">Ez<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>k. 32.24 26.27 29.</note> the firſt Death; but the Goſ<g ref="char:EOLhyphen"/>pels Power and Curſs raiſes it again from the firſt Death into a ſecond and eternal Death; being a liv<g ref="char:EOLhyphen"/>ing Death, and dying Life.</p>
+               <p>And thus we ſee, that every true Miniſter hath Pow<g ref="char:EOLhyphen"/>er to ſet Life and Death before <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>: And that Mini<g ref="char:EOLhyphen"/>ſtry that hath not that Power,
+<note place="margin">Mark 16.16. John 3.18.</note> is no true Miniſtry. Now, what a blind Guide is this, that connot ſee theſe plain Scriptures; but cries out, <hi>Prove this by Scripture.</hi> Woe be to all ſuch as are led by theſe blind Guides! Oh, that all the Elect were but delivered from their Captivity and Bondage under their Formalities, and might come to hear of Truth; that their Joy and Peace might abound, being the Seale of eternal Life.</p>
+               <p>But it is a wonderful thing, that ſuch Preachers as thoſe, who cannot Believe that any Prophet hath Power as aforeſaid, and yet they themſelves ſhall take upon them to Judg Mans Faith, and Condemn him for it. ſo is it not a wicked thing to deny the Prophets and Apoſtles Power of the Keys of Heaven and Hell, and yet preſume to do that thing themſelves, whilſt they acknowledg themſelves but falible Men: Doth not this Make you juſtly damned in your ſelves? But it is no wondring at it, for what ſaith the Scripture, <hi>He hath blinded their Eyes,
+<note place="margin">John 12.40.</note> they Stumble at Noon-Day:</hi> They have all the Spirit of Slumber.</p>
+               <p>And now I ſhall return to Anſwer this Miſrepreſen<g ref="char:EOLhyphen"/>tor's falſe Reflections upon our main Principles; yea,
+<pb n="25" facs="tcp:59959:15"/>ſuch as the very Scriptures ſtands upon, and on which eternal Life wholy depends.</p>
+               <p>In Page the 18th. you bring in <hi>John Reeve</hi> ſciteing him thus; Saying, <hi>God is not a Spirit, but hath a Body:</hi> Your Reflections are thus.</p>
+               <div type="accusation">
+                  <head>The Accuſation.</head>
+                  <p>The Scripture makes a Body and a Spirit Tow op<g ref="char:EOLhyphen"/>poſite things, ſo that a <hi>Body is not a Spirit, nor a Spirit a Body</hi> Eccles. 12.7. <hi>A Spirit hath not Fleſh and Bone,</hi> Luke. 24.37. The Scripture calls God <hi>a Spirit,</hi> but never <hi>a Body;</hi> God is not in form of a Man, but is inviſible, and no Man ever Saw him or can.</p>
+               </div>
+            </div>
+            <div n="7" type="chapter">
+               <head>CHAP. VII. <hi>ANSWER.</hi>
+               </head>
+               <p n="1">1. Your Citation is falſe; For <hi>John Reeve's</hi> Words are thus, <hi>That God is not a Spirit without a Body.</hi> By your falſe Citation, you would have your worldly Diſciples to think, That he affirms, <hi>That God is a Body without a Spirit.</hi> But, to come to the Point; I muſt tell you, That the Body and Soul are not Two contrary Things; and if your <hi>Solomon,</hi>
+                  <note place="margin">Eccleſ 3.19.</note> told you ſo with one Breath, he tells you the quite contrary in another: but many times wiſe <hi>Solomons,</hi>
+                  <note place="margin">Verſe 20.</note> do not know the meaning of their own Sayings.</p>
+               <p>
+                  <hi>Solomon</hi> was a wiſe Man,
+<note place="margin">1 Kings 3.12. &amp; 12 24 &amp; 11.4.</note> but the Wiſdom which he craved, and that God gave him, was but natural; ſo that <hi>Solomon's</hi> Writings are but the Operations of his natural Reaſon, and from ſum intrigate
+<pb n="26" facs="tcp:59959:16"/>Sayings of his Father <hi>David:</hi> So they are no Scripture, for he was no Prophetical Man.
+<note place="margin">Matt. 12.42.</note>
+               </p>
+               <p n="2">2. Again, If the Body and Soul are two contrary things, (as you ſay) and in Opoſition to each other, then was the Body and Soul of Chriſt at variance, with it ſelf; and in Opoſition with each other, and ſo two opoſite Things: If ſo, then Chriſt's Body did not go to Heaven, nor never would: And belike, you do not belive that Chriſt's Body is in Heaven, any more than the <hi>Quakers;</hi> and I know not how you ſhould believe it, becauſe your God hath never a Body: So Chriſt is none of your Fatherly God if he have a Body.</p>
+               <p>Can a Spirit live and ſubſiſt without a Body; where do the Scriptures ſay, That God is a Spirit without a Body: Did not you learn your own Catechiſe, or if you did, have you forgotten? doth it not teach (ſay<g ref="char:EOLhyphen"/>ing) to your Pupils, <hi>That God is a Spirit, Or a ſpiri<g ref="char:EOLhyphen"/>tual Subſtance, moſt Holy, Wiſe, Juſt and Infinite.</hi>
+               </p>
+               <p>Now if it be ſo, that God hath a Subſtance, then he muſt on neceſſity have a Body: And if he be <hi>Holy, Wiſe, and Juſt,</hi> he muſt have a Perſon to poſſeſs his raviſhing Glory in, and yet to be of uncompounded Purity.
+<note place="margin">Exod. 15.3.</note> Is it not ſaid, <hi>That God was a Man of War;</hi> that ſhews that he is in the form of a Man: Alſo Chriſt told the <hi>Phariſes,
+<note place="margin">Ma<gap reason="illegible" resp="#UOM" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>. <gap reason="illegible" resp="#UOM" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>.17. Joſh. 9.1. 3.</note> That there was no Man per<g ref="char:EOLhyphen"/>fectly Good but one, which was God.</hi>
+               </p>
+               <p n="3">3. Moreover, if your Soul can be more Wiſe, Juſt, and Holy without your Body, then turn it out of the Body, and ſee what Holineſs and Juſtice it can Act without its Body.
+<note place="margin">1 Cor. 6.19.</note>
+               </p>
+               <p>But the Truth of Scripture is, That God had a Body and Perſon from all Eternity;
+<note place="margin">R<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>vel. 21.23. &amp; 1.14 &amp; 10.1.</note> a ſpiritual Bo<g ref="char:EOLhyphen"/>dy, brighter than the Sun, more clear than Chriſti<g ref="char:EOLhyphen"/>al,
+<pb n="27" facs="tcp:59959:16"/>and that is the Reaſon why Mortality cannot be<g ref="char:EOLhyphen"/>hold him as he is in his full Glory:
+<note place="margin">Deut. 10.6.</note> If God was wil<g ref="char:EOLhyphen"/>ling at any time that ſome of his Servants, the Pro<g ref="char:EOLhyphen"/>phets, ſhould behold him, he was compelled to vale his Glory, ſo as that their frail Nature might be in a capaſity to behold him.</p>
+               <p>And this we further affirm, That we can ſooner find in Scripture, that our God hath, and ever had, a diſtinct Body of himſelf, than you can find in Scrip<g ref="char:EOLhyphen"/>ture a Trinity of Perſons in one Godhead; for if you find Three diſtinct Perſons, then you muſt find Three Bodies; and where then is your Spirit God become.</p>
+               <p n="4">4. Again, is not the Scriptures clear, That the Fathers of old did ſee God,
+<note place="margin">Gen. 17.3. Exod. 24.10. Iſa 6.5. John 35.9. Exod. 33.23.</note> and ever beheld him in Form and Shape of a Man: Will you ſay that God aſſumed that Shape, and yet had no Shape of his own; this is to make God a Conniver.</p>
+               <p>It is no wonder, as I ſaid before, that you diſpiſe <hi>John Reeve</hi> for ſaying that the Lord ſpake to him to the hearing of the Ear; for you do not believe that God hath any Tongue to ſpeak at all: <hi>For,</hi> ſay you, <hi>a Spirit hath no Fleſh, and hath no Body: For,</hi> ſay you, <hi>Body and Spirit are Two contrary things.</hi>
+               </p>
+               <p>As the Scripture ſaith that God hath a Body,
+<note place="margin">Dan. 7.9. Revel. 10.1. &amp; 1.14. John 6.<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>. Pſal. 94.9 N<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>m<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>. 12.8. Iſa. 6<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>.5.</note> ſo it attributes to this Body, Hands, Eyes, Face, Noſe, Mouth, Ears, Arms, Leggs, Breaſt, Heart, Back, <hi>&amp;c.</hi> And yet muſt he have never a Body, this is clearly to deny Scripture, for the Scripturian ſaith, <hi>That God hath a Body;</hi> but the Anteſcripturian ſaith, <hi>That God hath neither Body, Parts, or Shape, but yet is an infinite vaſt God, filling all things, and is in all Pla<g ref="char:EOLhyphen"/>ces at one and the ſame time, and ſo can neither Aſſend nor Deſcend, Come nor Go, but is everywhere at once;</hi> as your great <hi>Auguſtin</hi> ſaith.</p>
+               <pb n="28" facs="tcp:59959:17"/>
+               <p>This is yours and the Worlds monſtrous God: Are thoſe the Men that are ſo capable of Argument; if we ſhould be as ignorant in the Scriptures as you, it were no matter if our Tongues ſhould cleave to the Roof of our Mouths.</p>
+               <p>I wonder you are not aſhamed to pretend to Scrip<g ref="char:EOLhyphen"/>ture; do you believe the Scripture? Certain I am, that there are many Doctors of your Church that doth not believe them at all; for inſtance hereof, there is one of your Doctors, namely Dr. <hi>More:</hi> This Man, in one of his Books, called his <hi>Cabila,</hi> doth little leſs than give the Scripture the Ly; for treating upon the Creation of Man by <hi>Moſes,</hi> ſaith <hi>That the Scriptures doth not always ſpeak according to the exactneſs of Truth, but according to their Appearance in Senſe and the vulgar Opinion;</hi> and he quotes <hi>Chriſoſtim, Bernard,</hi> and <hi>Aqui<g ref="char:EOLhyphen"/>nus,</hi> as holding the ſame things, and inſtances it as to the Creating of <hi>Adam</hi> and <hi>Eve:</hi> Saying thus, <hi>God hath no Figure or Shape, altho</hi> Moſes <hi>ſaith he hath; he only permits the Ignorant and Vulgar People to Believe ſo, it being his Prudence and Policy ſo to do.</hi>
+               </p>
+               <p>Now is not this Odious, for what Prudence is it to Flatter, Diſſemble, and Deceive the People; for muſt Gods Prophets be but like Polititians of State, pretending one thing, and acting another.</p>
+               <p>Again, this Man brings in <hi>Moſes</hi> ſpeaking thus; <hi>God took of the Duſt of the Ground, wrought it with his Hands into ſuch a temper that it was fit to make the Body of a Man; which when framed, then comes near to it with his Mouth, and breathed into his Noſtrils the Breath of Life.</hi>
+               </p>
+               <p>
+                  <hi>And when God had made a Woman of one of</hi> Adam<hi>'s Ribs, he takes her by the Hand, and brought her to</hi> Adam; <hi>ſo when</hi> Adam <hi>was awaked,
+<note place="margin">Ge<gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>. 2<gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>.21.</note> he found his Dream to be
+<pb n="29" facs="tcp:59959:17"/>true, for he dream'd that God took a Woman out of him, for God ſtood by him with a Woman in his Hand.</hi>
+               </p>
+               <p>Now it is true, ſays this Doctor, <hi>Moſes</hi> ſpakes in this manner to ſatisfy the rude Multitude, who was ever ready to think that God was in Forme and Shape as they were; and thus <hi>Moſes</hi> complyed with their Humour, and permited them to belive ſo; <hi>yet,</hi> ſaith he, <hi>it is a Contradiction to the Idia of God, to have Figure and Shape.</hi>
+               </p>
+               <p>Now what ſay you to this, is not this giving <hi>Moſes</hi> the Lie? <hi>Moſes,</hi> you ſee, would permit People to believe, That God was in the Form of a Man: Now why will not you permit us to believe ſo? <hi>Moſes</hi> did not count this Doctrine a miſchievous Principle, as you do; but you, with this Man, ſet your ſelves againſt <hi>Moſes,</hi> and againſt the Scriptures; they are counted no other than a Lie with you: Now it is clear by this, that many of you Doctors are ſtark blind Athiſts.</p>
+               <p>your Proteſtant Church is now grown as blind with Age, almoſt as your Fathers the Papiſts, and as Atheiſtical as one of the Popes, who ſaid, <hi>That that Fable of Jeſus Chriſt had brought their Church great Riches:</hi> And one of that Church ſaid to me, <hi>that the Scriptures were but balderdaſh Stuff.</hi>
+               </p>
+               <p>Now as to that ſaying of Chriſt's to his Diſciples, <hi>That a Spirit had not Fleſh and Bone as he had;</hi> it was only to inform them that there was no ſuch Spirit as the World imagined, that could be ſeen, that had no Body; for Eyes of Fleſh muſt have a Subſtance for its Object: Therefore ſaid Chriſt, <hi>handle me and ſee, for I have a Body, a Subſtance of very Fleſh and Bone;</hi>
+                  <note place="margin">John 20.2<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>.</note> and they felt, and believed him to be their Lord and God.</p>
+               <pb n="30" facs="tcp:59959:18"/>
+               <p>For Chriſt, from hence, would have them for ever after to know that all Spirits, whither of God, Men, or Angels, are always inviſible; for it is the Body that is viſible, for the Soul that is in it is always inviſible, which Spirit comprehends all viſi<g ref="char:EOLhyphen"/>ble things, yet cannot Live, Act, or Operate with<g ref="char:EOLhyphen"/>out its Body. And ſo much for that Principle.</p>
+               <p>Again, Page 19th. you Repreſentor object againſt that moſt divine and miſterious Principle of God the Fathers becoming Fleſh; and call this <hi>a Doctrine quite contrary to Scripture,</hi> and produce thoſe Scriptures for Proof againſt us; namely, <hi>that God ſent his Son made of a Woman, And the Word was made Fleſh; but,</hi> ſay you, <hi>there is not one Word, That the Father was made Fleſh.</hi>
+               </p>
+            </div>
+            <div n="8" type="chapter">
+               <head>CHAP. VIII. <hi>ANSWER.</hi>
+               </head>
+               <p>IT is confeſſed by us,
+<note place="margin">Gal. 4.4. John 5.26. &amp; 10.18. Epb. 5.2.</note> that the Scripture ſaith, <hi>That God ſent his Son,</hi> as alſo, <hi>that Chriſt came of himſelf, and that he laid down his Life of himſelf.</hi> Now if he laid down his Life of himſelf, then where was the Father but in himſelf; for it was his divine Spirit that was the Father, by which he could lay down his Life by that ſelf, and by that ſelf could take it up again: For God tranſmuteing his ſpiritual Body into Fleſh ſo gained the Godhead and humane Nature together,
+<note place="margin">Heb. 1.3.</note> and ſo hath a Twofold Self Humane and Divine.</p>
+               <p>Therefore, when he ſaith, <hi>he hath Power of himſelf to lay down his Life,</hi>
+                  <note place="margin">Titus 2.14</note> then he ſpeaks as in Referance to
+<pb n="31" facs="tcp:59959:18"/>his God-head; and when he ſaith, <hi>That he can of him<g ref="char:EOLhyphen"/>ſelf do nothing,</hi> and the like,
+<note place="margin">Iſa. 45.15, 21, 22, 23. <hi>
+                        <gap reason="illegible" resp="#UOM" extent="3 letters">
+                           <desc>•••</desc>
+                        </gap>pared.</hi>
+                  </note> then he ſpeaks as in relation to his Manhood: God then hideing himſelf in that Manhood.</p>
+               <p>Again, if it be granted, That Chriſt is God and Man, then it muſt be acknowledged, That where Chriſt is, there the Father is;
+<note place="margin">John 14.<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>.9. Gal. 1.4. 1 <gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>et. 2.24.</note> and Chriſt affirms it himſelf, ſaying, <hi>That he that had him, had the Father, and he that had ſeen him, had ſeen the Father.</hi>
+               </p>
+               <p>Now from all this, doth it not plainly appear, That he was the Father himſelf, as well as the Son: And <hi>John</hi> ſaith,
+<note place="margin">John 1.1. Verſe 1<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>. Mat<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>. 1.20.</note> 
+                  <hi>That in the Beginning was the Word, and the Word was with God:</hi> And this Word was God; and that God, or Word became Fleſh: Then ſurely that one God was Father as well as Son; unleſs you can prove there were Two Gods, or with the <hi>Arians,</hi> That Chriſt was one with the Father in Union, but not in Eſſence; and if ſo, then every Believer is as much God as Chriſt is: But you have your Two Gods, one of which, you ſay, took Fleſh, the other did not; here you divide the Sub ſtance.</p>
+               <p>What a Monſter do you here make of God; for you had before Chriſts Incarnation thoſe Two Gods in Heaven, <hi>a Father God, and a Son God;</hi> and that Son you ſay, <hi>The Father Begot before all Worlds, and then was begot again in this World;</hi> ſo your God the Son was Twice Begot, or Twice Made: Is this good Sence, is this your Wiſdom, is this good Divinity; nay, without all Controverſy, this is quite contrary to Scripture, and to ſober Reaſon alſo.
+<note place="margin">Z<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ch 1<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>.9. Deu<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>. 6.<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>. Iſaiah 42.8. &amp; 48.11. Pſal 103.20. Heb. 1.6.</note>
+               </p>
+               <p>For was there ever any more than one God, and did not the Prophet <hi>Iſaiah</hi> ſay, <hi>That God would not give his Glory to another;</hi> and yet it is ſaid, <hi>That all the
+<pb n="32" facs="tcp:59959:19"/>Angels of God ſhould Worſhip Chriſt,
+<note place="margin">Iſaiah 45.23. Phil. 2.10.</note> and that to him every Knee ſhould bow;</hi> and that not only <hi>in Earth,</hi> but <hi>in Heaven alſo:</hi>
+                  <note place="margin">Re<gap reason="illegible" resp="#UOM" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>l. 22.6. <hi>Compar'd with</hi> Verſe 14.</note> Who then could ſhare with him, for he was the Lord God of all the Prophets, teſtified by the Angel unto <hi>John;</hi> which Angel bid <hi>John</hi> wor<g ref="char:EOLhyphen"/>ſhip God, even that God of the Prophets, which was no other but Jeſus Chriſt; Therefore it is ſaid, <hi>I Jeſus have ſent my Angel, and behold I come quickly,</hi> &amp;c.</p>
+               <p>There is no other God to come, no other Father, no other Reſurrection and Life,
+<note place="margin">1 John 2.23. &amp; 5.7. 2 John 9. Acts 4.12.</note> no other Name or Power but Jeſus Chriſt our Lord, tho Men or An<g ref="char:EOLhyphen"/>gels ſhould gainſay it; as I have abundantly ſhew'd in a Treatis intituled <hi>[None but Chriſt.]</hi>
+               </p>
+               <p>Moreover,
+<note place="margin">John 17.3.</note> to proſecute this Principle a little fur<g ref="char:EOLhyphen"/>ther here, becauſe it is our Life and Foundation Prin<g ref="char:EOLhyphen"/>ciple, and it is impoſſible for any Man to be ſaved that ſhall preſumptuouſly diſpiſe this Doctrin of Je<g ref="char:EOLhyphen"/>ſus being the everlaſting Father after ſo plain a Diſ<g ref="char:EOLhyphen"/>covery.</p>
+               <p>I am now to inquire how you <hi>Trenitarians, Soſini<g ref="char:EOLhyphen"/>ans,</hi> and <hi>Arians,</hi> bring Chriſt in for your Saviour: You ſay, <hi>That by the Fall of</hi> Adam <hi>all Men had incur<g ref="char:EOLhyphen"/>red Damnation, and ſo were become God the Father's Debtors; and the Father ſtanding upon Juſtice would not be Reconciled with them, without the full payment of that Debt, as Life for Life. Now,</hi> ſay you, <hi>the Father was ſo far pleaſed as to ſend his Son, to pay the full Debt: And,</hi> ſay you, <hi>this Son came voluntarily and paid the Debt; and by this means ſatisfied the Wrath of his Fa<g ref="char:EOLhyphen"/>ther, and ſo purchaſed your Life by his Ranſom.</hi>
+               </p>
+               <p>Wherefore, if it be ſo as you Teach, That the Fa<g ref="char:EOLhyphen"/>ther is diſtinct from that Son, then are you not be<g ref="char:EOLhyphen"/>holding to the Father at all: For take this Similitude for the Eluſtration thereof; Suppoſe, <hi>I owe a Man
+<pb n="33" facs="tcp:59959:19"/>a</hi> 1000 <hi>Pounds, or more, and I have not wherewith to pay him, and he will not forgive me any of the Debt; or I muſt either pay it all, or to Priſon; there to remain till I have paid the utmoſt Farthing; The Son of this my Cre<g ref="char:EOLhyphen"/>ditor ſees the Strait I am in, Commiſerates my Caſe; ſteps in voluntarily, and pays the Father the full Debt, and ſo ſets me at Liberty.</hi>
+               </p>
+               <p>Now in this Caſe, who am I moſt beholding to, the Father, or the Son; not to the Father at all, for he was for Juſtice, and I wanted Mercy: The Son therefore was my Friend, and to him only am I bound, and him only am I to Love, Serve, and Obay.</p>
+               <p>This is the very plain Caſe;
+<note place="margin">Phil. 3.8. Ephe. 6.24. 1 Cor. 16.22. 1 Tim. 6.15. Revel. 5.12. Jonn 17.5. 2 Cor 5.19. 2 John 9. John 8.36. 1 Pet 1.19. &amp; 2 Pet. 6. Heb. 2.14.</note> it is the Son Chriſt Jeſus that all the Elect Seed of <hi>Adam</hi> are beholding to, and not to any Father that either is, or ever was diſtinct from him: But the Father of Chriſt was his own Godhead Spirit, which through his eternal Love to the Seed of his own Body, was moved to change his Spiritual Body, (which was his everlaſting Son) into Fleſh, to the end he might be capable to dye, and ſhed his Blood for their Redemption; as alſo, that he might have Power to raiſe the Seed of the Serpent to a Second and eternal Death, for their Cruelty acted againſt him and his Elect Seed.</p>
+               <p>Therefore his coming in Fleſh was foretold by <hi>Iſaiah,</hi> and all the other Prophets;
+<note place="margin">Iſaiah 9.6.</note> and that the Son that was to be born of a Virgin, <hi>ſhould in time be call<g ref="char:EOLhyphen"/>ed the mighty God, and everlaſting Father:</hi> Now at this time this Propheſy is fulfilled, and by this Com<g ref="char:EOLhyphen"/>miſſion of the Spirit, he is both called and known to be the high and mighty God, and everlaſting Father: This Scripture is poſſitive, and ſhall command all primative Scriptures to bow down to it.</p>
+               <pb n="34" facs="tcp:59959:20"/>
+               <p>Thus the Scriptures are clear, to all that are appint<g ref="char:EOLhyphen"/>ed to Salvation, that Chriſt Jeſus is that one only, and alone true God, and everlaſting Father: To this the Holy Patriacks agree, obſerve their Teſtimony, which is conſonant to Scripture, being grounded upon Enoch's Propheſy.</p>
+               <p>
+                  <hi>Sim</hi> ſhall be glorified, when the great Lord God of <hi>Iſſrael</hi> appeareth on the Earth as a Man to ſave <hi>Adam;</hi> for God taking a Body upon him (namely of Fleſh and Bone) and eating with Men, ſhall ſave Men.</p>
+               <p>
+                  <hi>Ye ſhall ſee God in the ſhape of a Man</hi> (ſaid <hi>Zebulon) he is the Saviour, he is the</hi> [Father] <hi>of Nations; he that Believeth in him ſhall certainly Reign in Heaven,</hi> ſaith <hi>Levy and Judeth.</hi>
+               </p>
+               <p>God ſhall appear and dwell amongſt Men upon Earth, to ſave <hi>Iſrael;</hi> the Higheſt ſhall viſit the Earth, eating and drinking as Man with Man; he ſhall ſave <hi>Iſrael:</hi> That is, God hiden in Man.</p>
+               <p>
+                  <hi>At the laſt Day we ſhall riſe, every one of us, to his own Scepter,</hi> ſaith <hi>Benjamin, Worſhiping the King of Heaven, which appeared in the baſe Shape of a Man; and as ma<g ref="char:EOLhyphen"/>ny as believed in him ſhall Reign with him at that time:</hi> And all faithful Men ſhall riſe again, and the Reſidue to Shame, becauſe they believed not in God that came in the Fleſh to deliver.</p>
+               <p>Thus it is made Clear, That God the Father became Fleſh; but one Evidence more from <hi>John,</hi> befor I con<g ref="char:EOLhyphen"/>clude this Point: He, in Admiration of his Lords Love cryed out ſaying,
+<note place="margin">1 John 3.1.</note> 
+                  <hi>O What Love the Father hath beſtowed upon us, but the World knoweth him not, but we know him.</hi>
+               </p>
+               <p>Now, who was this Father of Love, was it any other but the Apoſtles Jeſus; his following Words doth ſhew it as clear as the Light; ſaying thus, We,
+<pb n="35" facs="tcp:59959:20"/>who are his Apoſtles do know him; and we further know, that when <hi>[He]</hi> doth appear we ſhall be like him; for we ſhall ſee him as he is: That is,
+<note place="margin">Pſal 3.21.</note> when he comes to change our vile Bodies, and make them like his own glorious Body, then ſhall we ſee him as he is in himſelf, one perſonal God Cloathed with Fleſh and Bone, as a Garment of eternal Glory.</p>
+               <p>
+                  <hi>This is the Faith</hi> (ſaith <hi>John) That maketh Pure,</hi> and he whoſe Faith abides in Jeſus Chriſt, that came by Water and Blood, hath the everlaſting Father; and he that holdeth this Faith ſineth not: That is, he ſineth not to Act; he may have the motion to Sin, but it preſerveth from the Act; for that golden Grace of Faith cruſheth that <hi>Cokatrice Egg</hi> of the Motion of Sin, before it become a ſtinging Serpent, and ſo Con<g ref="char:EOLhyphen"/>quers and Overcomes.</p>
+               <p>This is the Doctrin of the Goſpel, and he that Imbraceth it hath the Father and the Son,
+<note place="margin">2 John 10.9.</note> where and to whom the Bleſſing and the Salvation of God-ſpeed is given: This is the true God, and the Amen,
+<note place="margin">1 John 5.20. Revel 3.14.</note> and all other Gods are Idols.</p>
+               <p>This is the <hi>Muggletonian's</hi> Principle, which the Ante-Scripturian calls a miſchievious Principle. Thus you curſe the true God, and defy the Holy one of <hi>Iſrael,</hi> chuſing to your ſelf a God of your own lying Imagination.</p>
+               <p>In Page 19. you further Object againſt that Prin<g ref="char:EOLhyphen"/>ciple, <hi>how that the God-head dyed.</hi> This, ſay you, is quite contrary to Scripture, which ſaith, <hi>God is Immortal, and that he hath Immortality</hi> 1. Tim. 1.17. &amp; 6.16. Alſo, you ſay, That <hi>Muggleton</hi> teacheth, <hi>That the Soul of Man is Mortal, and turns to Duſt:</hi> To this, ſay you, the Scripture tells us, <hi>That the Souls of Men are alive after their Death.</hi> Matt. 22: 32. And,
+<pb n="36" facs="tcp:59959:21"/>
+                  <hi>that God is ſaid to be their God after they are Dead,</hi> Matt. 10.28. <hi>And that we are not to fear them that can kill the Body and not the Soul.</hi> And that <hi>Lazarus,</hi> when he dyed, went to Heaven, and <hi>Dives</hi> to Hell, <hi>Luke</hi> 16.22.</p>
+            </div>
+            <div n="9" type="chapter">
+               <head>CHAP. IX. <hi>ANSWER.</hi>
+               </head>
+               <p>The Scriptures,
+<note place="margin">Acts 20.28.</note> ſay <hi>that God purchaſed the Church with his Blood:</hi> Now the Blood of Chriſt was no other but the Blood of God, and when he power'd forth that Blood, then did he power forth his Life; for Life lay in that Blood.</p>
+               <p>Therefore it is ſaid <hi>That he powered forth his Soul un<g ref="char:EOLhyphen"/>to Death,
+<note place="margin">Iſaiah 53.12. Heb 9.14.</note> and that he offered up himſelf through the eter<g ref="char:EOLhyphen"/>nal Spirit:</hi> What is that, but that the eternal Spirit entered into Death, or paſſed through Death, in a Moment, into eternal Life; Death being too weak to keep him under;
+<note place="margin">Coll 2.9. 1 Cor. 15.54.</note> ſo that whatever Life was in Je<g ref="char:EOLhyphen"/>ſus did enter into Death.</p>
+               <p>Therefore he that was the <hi>Alpha</hi> and <hi>Omega,</hi>
+                  <note place="margin">Revel. 1.18.</note> the <hi>Firſt</hi> and the <hi>Laſt,</hi> was Dead, but is now Alive; and behold he now lives for ever more, and is that immor<g ref="char:EOLhyphen"/>tal only wiſe God, bleſſed for ever: So that we do affirm,
+<note place="margin">1 Tim. 6.16. 2 John. 7. Revel. 1.18.</note> That God is immortal; and we alſo know that Eternity did become Time, for Fleſh was in Time, and Time did become Eternity again.</p>
+               <p>Now, in that you Teach, That God cannot dye; it is evident that you do not belive that Chriſt was a<g ref="char:EOLhyphen"/>ny
+<pb n="37" facs="tcp:59959:21"/>God at all; ſo that you <hi>Trenitarians, Arians,</hi> and <hi>Socinians,</hi> you are all a like, and that you are no more Chriſtians then they: For it will neceſſarily follow, That if it were nothing but humane Nature, or Life in Chriſt, that died, then the Death of any other Man had been equevolent to Chriſt's Sufferings, and as Me<g ref="char:EOLhyphen"/>ritorious as his; and ſo your Spirit God, without a Body, might have ſaved you by ſheding of any other Man's Blood.</p>
+               <p>But the true <hi>Chriſtian</hi> doth know that no Blood can make <hi>Attonement</hi> for <hi>Sin,</hi> but the moſt precious and unvaluable <hi>Blood of a God;</hi> to believe this,
+<note place="margin">John 6.54.</note> is to drink his <hi>Blood:</hi> And to believe that that <hi>bleſſed Bo<g ref="char:EOLhyphen"/>dy of his</hi> was no leſs then the very body of God, this is to eate his <hi>fleſh;</hi> ſo that whoſoever eats his <hi>fleſh,</hi> and drinks his <hi>blood</hi> ſo, hath by ſo doing gained the full aſſurance of <hi>Eternal Life;</hi> this is a ſtanding Truth, and ſhall prevail.</p>
+               <p>But how is it poſſible you ſhould believe this, when as you cannnot believe that any Life dies at all; for ſay you, <hi>The Soul of Man is alive after Death;</hi> here your Ignorance appears very great for all your Learn<g ref="char:EOLhyphen"/>ing; Where did you ever find by Scripture, <hi>That the Soul of any man was ever alive without its body?</hi> The Scripture no where affirms it, if rightly underſtood; they are but old Wives Fables, or Monks and Fryers Forgeries, and heatheniſh Principles from their own blind Imaginations.</p>
+               <p>As for thoſe Sayings concerning <hi>Dives</hi> and <hi>Laza<g ref="char:EOLhyphen"/>rus,</hi> 'tis but a Parable,
+<note place="margin">Luke 16.</note> and ſo muſt have a Spiritual meaning; for Souls without Bodies have no Tongues, nor Eyes, nor Boſoms, as that Parable ſpeaks of; but that Parable was only to ſet forth the two Seeds here in Mortality, which is largely opened by this Commiſſion of the Spirit.</p>
+               <pb n="38" facs="tcp:59959:22"/>
+               <p>And as to Chriſt ſpeaking of <hi>God being the God of the living, and not of the dead,</hi> it was ſpoken to the <hi>Saduces,</hi> who denyed the Reſurrection; therefore Chriſt ſhews that there was a neceſſity of a Reſur<g ref="char:EOLhyphen"/>rection,
+<note place="margin">Act 2.31. and 13.36.</note> ſeeing that <hi>Abraham, Iſaac,</hi> and <hi>Jacob,</hi> and the reſt of the Prophets were dead, and their Sepulchres are with us at this day; and if God do not raiſe them again to that Glory their Faith was pitch'd upon, then was he the God of the dead, and not of the living, in that all dyed to him inſtead of living to him.</p>
+               <p>And as to that ſaying, <hi>Fear not them which can kill the body, &amp;c.</hi> That is, fear not him that may kill both Soul and Body by a natural death, but rather fear him that hath an abſolute power in himſelf to ſlay both Soul and Body with an Eternal or ſecond Death.</p>
+               <p>Moreover, when the Scripture ſaith the body dies, doth not that include the ſoul, or natural Life? What have you your natural Learning for, but to underſtand the natural ſence of words? Do you not find, that that which our Tranſlation calls body, the Greek calleth ſouls? as <hi>Numb.</hi> 6.6. there it is ſaid, <hi>That he ſhall come at no dead body,</hi> in our Bible; but after the Greek, your own Doctors read thus; <hi>He ſhall come at no dead Soul.</hi>
+               </p>
+               <p>Is it not ſaid,
+<note place="margin">Gen. 2.17.</note> 
+                  <hi>That man was made a living ſoul?</hi> And was not the threatning charge given out, <hi>That that ſoul that ſinned,
+<note place="margin">Ezek. 18. verſ, 20.</note> that ſoul ſhould dye?</hi> and yet ſay you, the ſoul cannot dye.</p>
+               <p>Now that which the National Miniſtry do make a ground of the Immortality of the ſoul, is to all ſpi<g ref="char:EOLhyphen"/>ritual wiſe men, an evident proof of its Mortality; as where it is ſaid, <hi>ſo ſuch a one dyed, and was gathered to his people;</hi> now whether is it, that they were gather<g ref="char:EOLhyphen"/>ed but into the grave? As for inſtance, ſee 2 <hi>Kings</hi> 22.20.</p>
+               <pb n="39" facs="tcp:59959:22"/>
+               <p>If the Soul can enjoy Heaven without its body,
+<note place="margin">
+                     <hi>Col.</hi> 3.4. 1 <hi>Theſ.</hi> 4.14.</note> what matter of a Reſurrection? but it is certain that the Scriptures affirms the contrary, and that there can be no Salvation without a Reſurrection.</p>
+               <p>When <hi>God</hi> ſhall raiſe the dead,
+<note place="margin">
+                     <hi>Mat.</hi> 13.41. <hi>c.</hi> 24.31. <hi>c.</hi> 25.31. <hi>John</hi> 5.<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>8. <hi>c.</hi> 11.43.</note> he hath his Angels attending to gather the Saints together, as <hi>God</hi> raiſeth them; neither <hi>God</hi> nor his Angels doth not bring their Souls from Heaven to <gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ume their dead bodies; but our <hi>God</hi> raiſeth Soul and Body together, out of the <hi>Grave</hi> by a word ſpeaking, as he did the <hi>Body</hi> and <hi>Soul</hi> of <hi>Lazarus.</hi>
+               </p>
+               <p>Again, on the other hand,
+<note place="margin">1 <hi>Revel.</hi> 20.13. <hi>Iſa.</hi> 66.24.</note> muſt all the damned Souls come from Hell to fetch up their curſed bodies? What Hell do they come from, but out of the Grave, Soul and Body out of the Grave; and when the Soul and Body riſes,
+<note place="margin">
+                     <hi>Jer.</hi> 17.13. <hi>Mich.</hi> 7.71. <hi>Ex<gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>d.</hi> 10.21. <hi>Revel.</hi> 10.10.</note> then the Devil riſes to his eternal Puniſhment; and this Earth will be the place of the Devils Torment, where he acted all his Lies and Cru<g ref="char:EOLhyphen"/>elty; there ſhall he ſuffer eternally (after the Elect Men and Angels are aſſended with their God into E<g ref="char:EOLhyphen"/>ternal Glory) the Plagues of <hi>Egypt</hi> were a Tipe of this.</p>
+               <p>Theſe things will be ſo in their time: And ſo much in anſwer to this Principle.</p>
+               <p>In <hi>pag.</hi> 20th. you oppoſe <hi>John Reeve</hi> for ſaying, How that <hi>but one Angel fell from his Created Purity and Glory.</hi>
+               </p>
+               <p>This Doctrine, ſay you,
+<note place="margin">The Accuſation.</note> is quite contrary to <hi>Scrip<g ref="char:EOLhyphen"/>ture;</hi> which tells us in <hi>Jude,</hi> That <hi>the Angels fell:</hi> and this, ſay you, cannot be apply'd to <hi>Kain</hi> and his Po<g ref="char:EOLhyphen"/>ſterity: For they, ſay you, <hi>by our own words never fell:</hi> And as for <hi>Kain,</hi> ſay you, <hi>He never was from that fal<g ref="char:EOLhyphen"/>len Angel, but was of</hi> Adam's <hi>begetting as well as</hi> Seath. And again you affirm alſo, <hi>That all</hi> Kain's <hi>Offspring neriſhed in the Floud.</hi>
+               </p>
+            </div>
+            <div n="10" type="chapter">
+               <pb n="40" facs="tcp:59959:23"/>
+               <head>CHAP. X. <hi>ANSWER.</hi>
+               </head>
+               <p>IF that Offspring of that Serpent-Angel that was caſt from Heaven could know it ſelf,
+<note place="margin">Iſa. 29.10. John 12.40. Rev. 11.7.</note> then you might know that theſe <hi>Angels</hi> ſpoken of in <hi>Jude</hi> were the Offspring of Curſed <hi>Kain,</hi> the Serpent Angel tranſmuted into Fleſh, and reſerved in Chains of Unbelief, and the Darkneſs of Ignorance: For <hi>Jude</hi> ſpoke of no other Devils but what were clothed in Fleſh; and it was they that were the Devils ordained to condemnation.</p>
+               <p>And therefore mind; for he brings in <hi>Sodom</hi> and <hi>Gomorrah,</hi> and the Rebellious <hi>Jews</hi> againſt <hi>Moſes,</hi> and thoſe upſtart Hypocrites who denied the Lord to be the only and alone true God, and yet pretended his Name: All theſe, ſaith he, were ordained to con<g ref="char:EOLhyphen"/>demnation in that <hi>Serpent-Angel</hi> aforeſaid, being re<g ref="char:EOLhyphen"/>probated in the Seed; and <hi>Kain</hi> was that Seed. And therefore <hi>Jude</hi> pronounces the Woe unto them, as the Off-ſpring and Seed of <hi>Kain,</hi>
+                  <note place="margin">v. 11.</note> to whom Eternal Torment doth belong.</p>
+               <p>Again,
+<note place="margin">Rev. 12.7.</note> where it is ſaid, that <hi>there was a war in hea<g ref="char:EOLhyphen"/>ven, Michael and his Angels fighting againſt the Dragon and his Angels:</hi> That <hi>Michael</hi> was the Spirit of the Lord Jeſus in all his Angelical Believers; and the Dragon was the Spirit of Curſed <hi>Kain,</hi> in all his Seed. This War was on Earth, tho' ſaid to be in Heaven, becauſe the Original of both Seeds came from Heaven; for there never was any actual Rebelli<g ref="char:EOLhyphen"/>on in Heaven, but that Angel-Serpent aforeſaid being
+<pb n="41" facs="tcp:59959:23"/>caſt out, all his Seed fell in him, and was caſt out with him, and ſo actual Rebellion took place: And therefore, ſaid <hi>John, Wo to the Inhabitants of the Earth, for the Devil</hi> (not Devils) <hi>is come down amongſt you.</hi>
+                  <note place="margin">Verſe 12.17.</note> And it was this Devil that brought the Wo, both to Saint and Serpent; in this Warfare doth theſe Two Woes take place to them Two Seeds; one in this Fight having his Heel bruiſed,
+<note place="margin">Gen. 3.15. Rev. 13.7.10.</note> which is in Perſecuti<g ref="char:EOLhyphen"/>on, loſs of Goods, and Death natural; the other having his Head bruiſed by the Saints Weapons of War, which reacheth to a ſecond Death.</p>
+               <p>And this Devil that was caſt down,
+<note place="margin">1 John 3.12.</note> was the Fa<g ref="char:EOLhyphen"/>ther of <hi>Cain,</hi> from whence all <hi>Wickedneſs</hi> and <hi>Cruel<g ref="char:EOLhyphen"/>ty</hi> hath flown; for <hi>Cain</hi> was the very <hi>Firſt-born</hi> of that Devil, and the fulneſs of that <hi>Serpent-Angel</hi>'s-<hi>God-Head</hi> lived Boddily in <hi>Cain;</hi> and ſuch of his Seed, that have in them a great Share of that piercing Reaſon, or <hi>God-head-power,</hi> became potent Angels, Lords and Governours of this World, it being given to that Seed; and they labour in this their Kingdom, to imi<g ref="char:EOLhyphen"/>tate the grandure of that Glory their Father, the <hi>fallen Angel,</hi> had before his Fall, and to come as near to it as poſſibly they can.</p>
+               <p>And here it is,
+<note place="margin">Ezek. 29.3.</note> That the Prophet <hi>Ezekiel</hi> compares <hi>Pharaoh</hi> King of <hi>Egipt</hi> to the <hi>great red Dragon:</hi> And the <hi>Aſſirian</hi> Monarch was ſaid by the Prophet, <hi>to be in Dignity, Power, Glory and Buty, like unto his Fa<g ref="char:EOLhyphen"/>ther the Angel before his Tranſmutation into Fleſh,
+<note place="margin">Chap. 33.3.</note> when he walked once in the Garden of</hi> Eden, <hi>being greater than ſeveral others of his Father's Children:</hi> The great Kings of <hi>Babilon</hi> were ſaid to be, <hi>from</hi> Lucipher, <hi>and therefore were called after his Name,</hi> Lucipher <hi>the Sun of the Mor<g ref="char:EOLhyphen"/>ning:</hi> And they are ſaid by the Prophet <hi>Iſaiah,
+<note place="margin">Iſa. 14.12.</note> To be caſt down from Heaven,</hi> which could not be, if they
+<pb n="42" facs="tcp:59959:24"/>had not proceeded from the <hi>fallen Angel.</hi>
+               </p>
+               <p>And as they were caſt down from Heaven in that <hi>Angel,</hi> even ſo they were for exalting their Thrones above the Stars, and to be like unto God; which doth ſhew, That they were evil Kings, and evil Beaſts For good Kings, and ſuch as proceed not from <hi>Cain,</hi> they are not for exalting themſelves ſo high, as to that Heavenly Throne of judging of Mens <hi>Faith</hi> and <hi>Conſcience;</hi> neither will they tiraniſe over their Subjects, but do Juſtice according to the Law. But to the Matter aforeſaid.</p>
+               <p>The great King of <hi>Tyrus,</hi>
+                  <note place="margin">Ezek. 28.3.</note> ſeems to out-top all the foregoing Kings with <hi>Angelical</hi> Perfection; for he is ſaid to be the <hi>very anointed Cherub himſelf;</hi> he having as great a Share of that loſt Glory as his fallen Na<g ref="char:EOLhyphen"/>ture could afford him; for that <hi>Angel</hi> that he pro<g ref="char:EOLhyphen"/>ceeded from was a <hi>Church,</hi> which was the higheſt Or<g ref="char:EOLhyphen"/>der of <hi>Angels;</hi> and this King was of the higheſt De<g ref="char:EOLhyphen"/>gree of Wiſdom, Buty, and Glory: And therefore his Perfections was ſuch,
+<note place="margin">Verſe 13.14.</note> as that he was ſaid to be <hi>Wiſer than</hi> Daniel; by which Wiſdom he had goten him Riches of Gold and Silver in abundance; as al<g ref="char:EOLhyphen"/>ſo in his <hi>Kingdom</hi> all ſorts of cunning Arts and Si<g ref="char:EOLhyphen"/>ances, and a great Merchant, mighty in Traffick: All this from his Father the <hi>Angel.</hi>
+               </p>
+               <p>Therefore, ſaid the Prophet to this Prince, <hi>Thou haſt been in</hi> Eden, <hi>the Garden of God; every preſious Stone was thy Covering; yea, the Tabret and the Pipe was prepared in thee in the Day that thou waſt Greated:</hi> This was not <hi>Adam,</hi> but the <hi>Angel,</hi> &amp;c.</p>
+               <p>Again, <hi>Thou art the anointed</hi> Cherub <hi>that covereth, and I have ſet thee ſo.</hi> (Again, ſaith the Prophet) <hi>Thou waſt upon the Holy Mountain of God, and haſt walked in the midſt of Stones of Fire: Thou waſt perfect
+<pb n="43" facs="tcp:59959:24"/>in thy Ways from the Day thou waſt Created,
+<note place="margin">Verſe 15.17.</note> till Iniqui<g ref="char:EOLhyphen"/>ty was found in thee: Thou haſt corrupted thy Wiſdom, by reaſon of thy Brightneſs.</hi>
+               </p>
+               <p>Now can this Prince of Reaſon, ſo exalted, be de<g ref="char:EOLhyphen"/>rived from any other Roote, but that <hi>Angelical Re<g ref="char:EOLhyphen"/>probate, That was caſt down from Heaven for his Pride, in thoſe his great Perfections.</hi>
+                  <note place="margin">Matt.</note> Therefore his Wiſdom is ſaid, <hi>to excel</hi> Daniel<hi>'s:</hi> And ſo it might be ſaid to excel <hi>Adam</hi>'s too.</p>
+               <p>Therefore theſe Princes are not related to <hi>Adam,</hi> but to that <hi>Angel,</hi> that corrupted his Wiſdom of pier<g ref="char:EOLhyphen"/>ſing Reaſon; for had his Wiſdom flow'd from Faith's Nature, it could not have Corrupted it ſelf; but the Wiſdom of Reaſon is ſubject to Sin: Yea, Reaſon it ſelf, (tho ſo noble a Nature, and ſplendant, if not upheld by that Power that Created it) is Sin it ſelf; and here is the <hi>Off-ſpring</hi> and <hi>Root</hi> of all fleſhly Glory: So that, that which is adored for a God is damned for a Devil. <hi>If this gives Offence, I cannot help it: But to proceed.</hi>
+               </p>
+               <p>Again, Whereas you, (the Oppoſer of the <hi>Mug<g ref="char:EOLhyphen"/>gletonians</hi> Principles) ſay; Firſt, <hi>That</hi> Cain <hi>was of</hi> Adam<hi>'s begeting; And then</hi> Secondly, <hi>That all</hi> Cain<hi>'s Off-ſpring periſhed in the Flood:</hi> Theſe are both abſo<g ref="char:EOLhyphen"/>lutely falſe: For,</p>
+               <p>
+                  <hi>Firſt,</hi> It is evident, That <hi>Adam</hi> never begot <hi>Cain,</hi> neither do the Scriptures affirm it, if rightly under<g ref="char:EOLhyphen"/>ſtood: For tho <hi>Moſes</hi> ſaith,
+<note place="margin">Gen. 4.1.</note> 
+                  <hi>That</hi> Adam <hi>knew</hi> Eve <hi>his Wife, and ſhe conceived and bare</hi> Cain; yet <hi>Moſes</hi> doth not ſay, <hi>That ſhe conceived</hi> Cain <hi>of</hi> Adams <hi>Seed:</hi> And therefore in the very next Words after, <hi>Moſes</hi> hath theſe Words [<hi>And ſhe again bare his Brother</hi> Abel.]
+<note place="margin">Verſe 2.</note> Without mentioning a Word of his knowing of her after; and this was to keep the Seeds of aſpiring Rea<g ref="char:EOLhyphen"/>ſon
+<pb n="44" facs="tcp:59959:25"/>in the dark; for <hi>Eve</hi> had conceived <hi>Cain</hi> of the <hi>Serpent Angel,</hi> before ever <hi>Adam</hi> knew her; and that was it that made her full of Luſt after her Innocent Husband.</p>
+               <p>
+                  <hi>Again,</hi>
+                  <note place="margin">1 John 3.12.</note> To clear this further, Doth not the Apo<g ref="char:EOLhyphen"/>ſtle <hi>John</hi> ſay, <hi>That</hi> Cain <hi>was from that</hi> Serpent-Angel, <hi>which he calls by the name of</hi> Wicked one. Now dare you ſay, <hi>That</hi> Adam <hi>was that</hi> Wicked one, <hi>from whence</hi> (as <hi>John</hi> ſaith) <hi>the Spirit of</hi> Cain <hi>ſprung:</hi> Sure<g ref="char:EOLhyphen"/>ly no, for that were Wickedneſs indeed to Men that profeſs Scripture.</p>
+               <p>Furthermore, <hi>Gain</hi> and <hi>Abel,</hi> altho they are ſaid to be Brothers,
+<note place="margin">Matt. 1.15.</note> yet their Brotherhood comes but by the Mother's ſide, even as it is apparent, that <hi>Holy</hi> and <hi>Jacob,</hi> the Two attributed Fathers of <hi>Joſeph,</hi> the Huſ<g ref="char:EOLhyphen"/>band of <hi>Mary,</hi> were Brothers by the Mother's ſide.</p>
+               <p>Now it is worth the minding here, That <hi>Joſeph</hi> could not be the natural Son of both thoſe Men; for obſerve in the <hi>Genealogy</hi> of our Saviour, <hi>Matthew</hi> makes <hi>Mathan</hi> to be the Father of <hi>Jacob,</hi> and <hi>Jacob</hi> the Father of <hi>Joſeph:</hi> But <hi>Luke</hi> makes <hi>Melchi</hi> the Fa<g ref="char:EOLhyphen"/>ther of <hi>Hely,</hi>
+                  <note place="margin">Luke 3.22.</note> and <hi>Hely</hi> the Father of <hi>Joſeph.</hi>
+               </p>
+               <p>Now here is a different Race, for <hi>Jacob,</hi> the natu<g ref="char:EOLhyphen"/>ral Father of <hi>Joſeph,</hi> he proceeded from <hi>Solomon,</hi> but <hi>Hely</hi> ſprung from <hi>Nathan,</hi> and was <hi>Joſeph</hi>'s Father by Law or Title, but not by Nature.</p>
+               <p>Therefore, as <hi>Hely</hi> was the ſuppoſed <hi>Father</hi> to <hi>Jo<g ref="char:EOLhyphen"/>ſeph,</hi> and <hi>Joſeph</hi> the ſuppoſed <hi>Father</hi> of <hi>Chriſt;</hi> even ſo was <hi>Adam</hi> no more than the ſuppoſed <hi>Father</hi> of <hi>Cain;</hi> nay he is no where called the <hi>Father</hi> of <hi>Cain,</hi> not in all the Scriptures: But on the contrary, that <hi>Cain</hi>'s <hi>Father</hi> was called that <hi>Wicked one,</hi> or <hi>Devil;</hi> for <hi>Wicked one</hi> and <hi>Devil</hi> are both of one ſignification. See and Compare, <hi>Matt.</hi> 13.19. <hi>Luke</hi> 8.12. <hi>Mark</hi> 4.15.</p>
+               <pb n="45" facs="tcp:59959:25"/>
+               <p>Therefore it is without all Controverſy, That <hi>Ad<g ref="char:EOLhyphen"/>am</hi> was not that <hi>Wicked One, Satan,</hi> or <hi>Devil,</hi> that begot <hi>Cain:</hi> Nay your own Doctor <hi>Ainſer,</hi> upon <hi>Geneſis</hi> ſaith, <hi>That</hi> Cain <hi>was from the Devil;</hi> and he citeth ſome of the <hi>Hebrew</hi> Doctors for Proof of the ſame: Saying, <hi>That they Teach how that</hi> Cain <hi>was born of the Filth, and Seed of the Serpent, which was conveyed into</hi> Eve: And that one <hi>Menacham,</hi> a Jew<g ref="char:EOLhyphen"/>iſh Rabi ſaith, <hi>That unto this World there cleaveth the ſecret Filthineſs of the Serpent, which came upon</hi> Eve; <hi>and becauſe of that Filthineſs Death is come upon</hi> Adam, <hi>&amp;c.</hi> But no more of this here, having wrote largely upon it in a Treatis Intituled, <hi>Truth's Triumph,</hi> or the <hi>Witneſs to the Two Witneſſes,</hi> which may ſome time come to publick view.</p>
+               <p>
+                  <hi>Secondly,</hi> as it is proved that <hi>Adam</hi> did not beget <hi>Cain;</hi> ſo it is falſe for you to ſay, <hi>That all</hi> Cain<hi>'s Off-ſpring periſhed in the Floud.</hi> Now you that affirm this, will find it to the contrary; for if that had been ſo as you ſay, then there would be no Damnation for any that have been borne ſince.</p>
+               <p>But tho <hi>Cain</hi> was dead, and moſt of his <hi>Off-ſpring,</hi>
+                  <note place="margin">Gen. 9.25. &amp; 3.14. <hi>Compa<g ref="char:EOLhyphen"/>ted.</hi> Iſa. 1.4. &amp; 14.20. Deut. 12.5.</note> yet his Seed was alive in curſed <hi>Ham;</hi> ſo that the Curſe given to the Serpent-Angel in the Womb of <hi>Eve</hi> run in a Line, even from <hi>Cain</hi> to <hi>Ham,</hi> and ſo to <hi>Iſhmael</hi> and <hi>Eſau,</hi> and ſo on to the end of the World: For altho <hi>Ham</hi> was begot by <hi>Noah,</hi> a good Man, and an elect Veſſel, yet was not <hi>Ham</hi> of that good Seed; for <hi>Noah</hi> had in him Two Seeds, as all Men elſe have, ſince <hi>the Sons of God ſaw the Daughters of Men,
+<note place="margin">Gen <gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>.<gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>.</note> and took them Wives of ſuch as were the Seed of</hi> Cain: And ſo the Seed of <hi>Adam</hi> and that Seed of <hi>Cain,</hi> through Copulation, did perticipate of each others Seed;
+<note place="margin">Matt. 1<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>.37.</note> and which Seed is uppermoſt in Conception, that Seed
+<pb n="46" facs="tcp:59959:26"/>grows to be Lord over the other;
+<note place="margin">Matt. 10.37.</note> and ſo a Man comes to have his Denomination according to the Predo<g ref="char:EOLhyphen"/>minancy of his Seed: And thus it was with <hi>Ham,</hi> for <hi>Cain</hi>'s Seed was predominant in <hi>Ham</hi>'s Con<g ref="char:EOLhyphen"/>ception.</p>
+               <p>So it was with thoſe <hi>Jews</hi> that boaſted themſelves to be of <hi>Abraham:</hi>
+                  <note place="margin">John 8.38.33.37.44.</note> And tho they might be <hi>Abraham</hi>'s Seed according to the Fleſh, yet Chriſt branded them for <hi>Devils,</hi> telling them, <hi>That the Devil was their Fa<g ref="char:EOLhyphen"/>ther:</hi> Which was no other than <hi>Cain,</hi> being the firſt Lyer and Murtherer.</p>
+               <p>Now, from hence, all ſober Men may ſee, that a <hi>Devil</hi> and a <hi>Saint</hi> is all one to you; for you can find but one Scripture Seed; for God and Devil, Heaven and Hell, Saint and Serpent, with you come all from one Root.</p>
+               <p>Now, ſeeing it is ſo with you, I would adviſe you to leave off playing the Hipocrite, and forbear tel<g ref="char:EOLhyphen"/>ling your Hearers, <hi>That any of them will be Damned:</hi> For if there be but one Seed, and that Seed the Seed of <hi>Adam,</hi> then all will be ſaved; ſo deal plainly to your People, and Preach to them general Redempti<g ref="char:EOLhyphen"/>on, and prove it from <hi>Paul</hi>'s Words, where he ſaith, <hi>That as in</hi> Adam <hi>all dye,
+<note place="margin">1 Cor. 15.22.</note> ſo in Chriſt ſhall all be made alive.</hi>
+               </p>
+               <p>But will yea, or nill yea, this we muſt tell you, <hi>That there is a Seed,
+<note place="margin">Rom. 9.27. Mat. 9.13.</note> namely</hi> Cain <hi>and his</hi> Off-ſpring, <hi>that never fell in</hi> Adam, <hi>but in the</hi> Serpent-Angel, <hi>and ſo are uncapable of ever being Redeemed by Chriſt:</hi>
+                  <note place="margin">2. Pet. 2.12. John 17.9. 1 Tim. 2.4. Matt. 18.11. &amp; 10.6. Rom. 11.26.</note> For when on Earth, he never prayed for them: For tho he would have all Men ſaved, yet it is but all thoſe that fell in <hi>Adam,</hi> that he hath any ſpiritual Salvati<g ref="char:EOLhyphen"/>on for.</p>
+               <pb n="47" facs="tcp:59959:26"/>
+               <p>This is that which makes that Seed fret themſelves,
+<note place="margin">Mal. 3.15.</note> and call it a miſchevious Principle; and it will prove ſad to that miſchevious Man that Condemns true Propheſy; and the true Believers thereof; as like<g ref="char:EOLhyphen"/>wiſe,
+<note place="margin">Iſa. 5.20.</note> that juſtifieth the Seed of the Wicked to be the Seed of <hi>Adam,</hi> who was the Seed of God.</p>
+               <div type="accusation">
+                  <head>Your farther Accuſation Runs thus.</head>
+                  <p>In <hi>Pag.</hi> 20. You ſay, <hi>That there is a Devil diſtinc<gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> from Man, and would ſeem to prove it from that</hi> Devil <hi>that tempted</hi> Chriſt; <hi>which you would have to be a bo<g ref="char:EOLhyphen"/>dily-Spirit; and you ſcoff at wicked Imagination being the</hi> Devil: And from hence you query from that Scrip<g ref="char:EOLhyphen"/>ture, <hi>Mark</hi> 5.4. Saying, <hi>Doth Imagination break Chains,</hi> &amp;c. And that their affirming, <hi>That</hi> Ely <hi>ſhould be</hi> Chriſt<hi>'s Repreſentative:</hi> This you call all Fable.</p>
+               </div>
+            </div>
+            <div n="11" type="chapter">
+               <head>CHAP. XI. <hi>ANSWER.</hi>
+               </head>
+               <p>IF you will have a <hi>Devil</hi> without a Body, you muſt go ſeek out a new-found World, to ſind out your unknown <hi>Devil:</hi> The Works of this <hi>Devil</hi> are ma<g ref="char:EOLhyphen"/>nifeſt, and yet you cannot know him; for is there any Wickedneſs in this World but what flows from that Carnal Spirit of Men and Women,
+<note place="margin">Revel. 18.2. Matt. 15.19. Gal. 5.19.</note> who is a Kingdom of Wickedneſs in that <hi>Tophet</hi> or Bodies of theirs; for it is the Heart where the Court is kept, and is the only Nuſſery of all evil Spirits conciv'd there by Imagination.</p>
+               <pb n="48" facs="tcp:59959:27"/>
+               <p>Oh! the depth of this Imagination in this its bot<g ref="char:EOLhyphen"/>tomleſs Pit, and the uncleanneſs of the ſame: Do but compare Scripture,
+<note place="margin">Gen. 6.5. Jam. 4.5, 6. Iſaiah 32.6. Jer. 17.9.</note> and in it we may find a very Pit-Devil: <hi>All the Imaginations of Mans Heart,</hi> (ſaith God) <hi>are Evil, and continually Evil:</hi> What's that but the Devil. And hath not this continual Work its firſt Formation in the Heart, being its own Work from its own Seed; and its Worke is in this manner following.</p>
+               <p>For this is to be minded, That as the Spirit of Faith in the Heart of Man, is the Womb or Mother, for the Revelation of Faith to beget a Son out of the Seed of Faith.</p>
+               <p>So likewiſe the Seed of Reaſon is the Womb or Mother, for Imagination to beget a Son or familier Spirit,
+<note place="margin">James 1 15. &amp; 2.15 16. James 4.1.</note> for all evil Spirits are conceived in the Heart: If Envy be conceived, then Murder is brought forth; if Luſt be conceived, then Adultery is brought forth; and if a familiar Spirit is conceived, then it brings forth ſuch a Spirit as ſpeaks forth <hi>Motional Voices;</hi>
+                  <note place="margin">Jer. 23.16. Iſaiah. 8.19. Deut. 18.10.</note> and if by its Transformation into Angelical Light, then as falſe Prophets, it produces Viſions, Revelations, and internal Voices within them: Now this familiar Spirit is nothing elſe but a Witch; ſo that when it <hi>Motions</hi> forth Spiritual or Religious Matters,
+<note place="margin">Eph. 6.12.</note> then it becomes ſpiritual Witchcraft, and when it <hi>Motions</hi> forth upon a Temporal Account, then it becomes na<g ref="char:EOLhyphen"/>tural Witchcraft: The one or other of theſe Witch<g ref="char:EOLhyphen"/>crafts almoſt all the World lies under.</p>
+               <p>Therefore it follows, That this familiar Spirit that is begot by Imagination, doth ſometimes produce ſuch a Voice in it ſelf, as if ſome Spirit without them did appear to them without Bodies, and Reveal things to them,
+<note place="margin">1 Sam. 28.1.</note> as it was by the Witch of <hi>Endor,</hi> and as <hi>Sa<g ref="char:EOLhyphen"/>muel</hi> ſpoke in <hi>Saul</hi>'s Conſience.</p>
+               <pb n="49" facs="tcp:59959:27"/>
+               <p>This hath been a common thing in all Ages, and Gilt of Conſcience can quickly quine an Object, and produce a motional Voce, thinking it is without the Body, whenas all is but from the <hi>Familiar Spirit.</hi>
+               </p>
+               <p>And when this <hi>Familiar Spirit,</hi> or <hi>new begot Wiſ<g ref="char:EOLhyphen"/>dom</hi> is quickened in the <hi>evil Heart,</hi>
+                  <note place="margin">Exod. 1.10. Jer. 4.22.</note> it grows from Strength to Strength, from one degree of Knowledg, to a further degree of evil Knowledg and evil Wiſ<g ref="char:EOLhyphen"/>dom, <hi>Creating</hi> to it ſelf ſuch <hi>things</hi> as God never <hi>Cre<g ref="char:EOLhyphen"/>ated;</hi> as <hi>an immortal Soul, or Spirit, without a Body:</hi> And it hath made it ſo, as that it can appear in any Shape, Form, or Likeneſs, whether it be <hi>God, Man, Devil,</hi> or <hi>Angel:</hi> All are made <hi>Spirits</hi> without <hi>Bo<g ref="char:EOLhyphen"/>dies.</hi>
+               </p>
+               <p>Alſo it hath <hi>Created</hi> to it ſelf, ſuch a <hi>Devil</hi> as can <hi>whip</hi> into Man, and out of Man, at his Pleaſure: And when <hi>Sin is Commited,</hi> then all the <hi>Evil</hi> is char<g ref="char:EOLhyphen"/>ged upon that <hi>boddilis Devil:</hi> And yet Men muſt be hanged for <hi>Murder,</hi> whenas, they ſay, it is a <hi>bodilis Devil</hi> that is the <hi>Murtherer,</hi> or temps to <hi>Murther.</hi>
+               </p>
+               <p>And more then this, <hi>the Devil muſt be chained in Hell-fire;</hi> and yet a <hi>bodilis Spirit,</hi> and in all places at one time, where he can tempt all the <hi>World</hi> to <hi>Sin,</hi> and yet no body can ſee <hi>him; and yet he is in Hell-fire in Chains, but may be called out at the Pleaſure of a Witch:</hi> This is the <hi>Worlds Bugbare Devil, and the pitchy Darkneſs all the World lies under.</hi>
+               </p>
+               <p>Thus we ſee what <hi>Fruits</hi> the <hi>Imagination</hi> of <hi>Reaſon brings forth:</hi> And whereas you ſcoffingly ask,
+<note place="margin">Mark 5 4.</note> 
+                  <hi>whether Imagination breaks Chains,</hi> pointing to that ſaying of the Goſpel.</p>
+               <p>Here you ſhew your <hi>Ignorance,</hi> that cannot <hi>diſtin<g ref="char:EOLhyphen"/>guiſh</hi> between <hi>Devils in Nature,</hi> and <hi>Devils produced by Accidents in Nature:</hi> Nay, you know nothing at
+<pb n="50" facs="tcp:59959:28"/>all, of <hi>neither</hi> the one nor the other, and ſo make no <hi>difference of their Actions.</hi>
+               </p>
+               <p>For tho <hi>Diſtempers</hi> in nature are <hi>deviliſh,</hi> yet not <hi>damned Devils:</hi> For this we ſind, that <hi>Chriſt</hi> never called <hi>diſtracted</hi> or <hi>mad Men Devils;</hi> for theſe may come through ſome <hi>extraordinary Fright, Grief,</hi> or <hi>Loſs;</hi> and in ſome may <hi>increaſe</hi> to that <hi>ſtrength,</hi> as to break <hi>Iron Chains:</hi> For having broke the <hi>Brain,</hi> the Seat of Reaſon is quite out of order, and ſo makes them more ſtrong then when their Reaſon was in Order. And <hi>Chriſt</hi> never Judged and Condemned theſe, but caſt thoſe <hi>fiery Diſtempers,</hi> and <hi>diviliſh Diſeaſes</hi> out, and reſtored them to their <hi>right Mind.</hi>
+               </p>
+               <p>So that it is not the <hi>Diſtracted</hi> or <hi>Unreaſonable</hi> that <hi>Chriſt</hi> Condemned, but the <hi>Learned,</hi> and <hi>Senſible,</hi> and <hi>Prudent Man;</hi> even ſuch as <hi>commit Murder for Conſci<g ref="char:EOLhyphen"/>ence ſake, and condemn true Propheſy,</hi> from their <hi>con<g ref="char:EOLhyphen"/>ceated Wiſdom of high-flown piercing Reaſon:</hi> This is <hi>evident</hi> throughout all the <hi>Scriptures,</hi> eſpecially in the Learned <hi>Scribes</hi> and <hi>Phariſees,
+<note place="margin">Mark 2.6. Luke 20.20. Matt. 26.3. Luke 20.5.</note> Who held a Counſel, and Reaſoned in themſelves how they might intrap</hi> Jeſus <hi>in his Words.</hi>
+               </p>
+               <p>And that <hi>Devil</hi> that tempted <hi>Chriſt,</hi> he was one of them, and no ſuch <hi>bodilis Devil</hi> as your Reaſon hath created to it ſelf, that ſhould carry <hi>Chriſt</hi> up to the <hi>Pinacle</hi> of that <hi>outward material Temple</hi> in <hi>Jeruſalem,</hi> no, no: But againſt all your <hi>Wiſdom</hi> of <hi>Reaſon,</hi> we affirm, <hi>That he was a Man-Devil, being a Learned</hi> Scribe, <hi>well Read in</hi> Scripture, <hi>and could argue the ſame from this Pinacle of his ſubtil Pate;</hi> but <hi>Chriſt</hi> repulſed his <hi>Scripture Argument</hi> with <hi>Scripture</hi> again, ſaying, <hi>It is written, thou ſhalt not temp the Lord thy God, but him only thou ſhalt ſerve.</hi>
+               </p>
+               <pb n="51" facs="tcp:59959:28"/>
+               <p>Now where was this <hi>Scripture written,</hi> was it not in <hi>Deut.</hi> 6.13, 16? And was it not <hi>writen</hi> to Men <hi>in<g ref="char:EOLhyphen"/>dued</hi> with the <hi>Wiſdom</hi> of <hi>Reaſon?</hi> It was not <hi>writen</hi> to a <hi>bodilis Devil;</hi> for <hi>bodilis Devils</hi> do not commit <hi>Mur<g ref="char:EOLhyphen"/>der, Adultery,</hi> or <hi>tempt God,</hi> it is <hi>Man</hi> that doth all this; and it was to <hi>Man</hi> that the Law was given,
+<note place="margin">Exod. 20. &amp; Deut. 4.13.15. Pſal. 78.18 &amp; 41.56.</note> and ſo the Law ſaith, <hi>Thou ſhalt not Tempt the Lord thy God, as your Fathers tempted him:</hi> And again, <hi>You ſhall not corrupt yourſelves.</hi>
+               </p>
+               <p>Now, from what is here ſaid,
+<note place="margin">James 1.14. &amp; 4.1.2.7. <hi>Compared.</hi>
+                  </note> it muſt needs fol<g ref="char:EOLhyphen"/>low, that if <hi>Pride, Envy, Luſt, Covetuouſneſs,</hi> and <hi>Hi<g ref="char:EOLhyphen"/>pocriſy</hi> be the <hi>Divels</hi> in <hi>Men,</hi> are not <hi>Men</hi> and <hi>Women</hi> thoſe <hi>Devils</hi> that are brought under the Power of thoſe <hi>Evils:</hi> When the Apoſtle ſaid, <hi>That the Devil ſhould caſt ſome of them Saints into Priſon;</hi>
+                  <note place="margin">Revel. 2.10.</note> the Saints were not caſt into Priſon by <hi>Devils</hi> that had no Bo<g ref="char:EOLhyphen"/>dies.</p>
+               <p>Therefore lay not your Brats at other Mens Dores,
+<note place="margin">John 6.70. &amp; 8.44. Acts 1<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>.10. Iſaiah 3.9.</note> but charge your own Souls home with the <hi>Evil</hi> you do; <hi>For as it is</hi> Man's <hi>own</hi> Soul <hi>that Sins, ſo it is his own</hi> Soul <hi>that muſt ſuffer.</hi>
+               </p>
+               <p>This will prove true, and ſo will that of <hi>Moſes</hi> and <hi>Elias,</hi> altho you call it all <hi>Fable:</hi> For why will you ty God up to your <hi>Imagination of curſed Reaſon?</hi> Is anything too hard for God to do,
+<note place="margin">Gen. 22.16.</note> when his <hi>divine Wiſdom</hi> moves him to it? Did not he Swear by him<g ref="char:EOLhyphen"/>ſelf, to himſelf, what he propoſed to do?
+<note place="margin">Pſal 8.5. Phill. 2.7, 8.</note> And may he not, by the ſame Rule, change his own glorious Condition into Fleſh; and having humbled himſelf to himſelf,
+<note place="margin">John 17.5 19. Matt. 27.46. &amp; 2<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>.2. Luke 24.4. Acts 1.10. Revel. 22.9.</note> may he not cauſe his <hi>Humanity</hi> to Pray and Cry unto his <hi>Divinity</hi> within him, or to his ſpi<g ref="char:EOLhyphen"/>ritual Charge, committed unto his Angels, without him, for a further Manifeſtation of his unſerchable Power in Shame and Weakneſs, as well as in Power and Glory.</p>
+               <pb n="52" facs="tcp:59959:29"/>
+               <p>Is it not writen, <hi>How that his Angels had given them a Charge to watch over him?</hi> And did not <hi>Moſes</hi> and <hi>Elias</hi> do ſo, from his Birth to his Aſſention? Alſo is it not written,
+<note place="margin">Luke 1.17. Matt. 4.5. M<gap reason="illegible" resp="#UOM" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap>. 4.5. Matt. <gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>7.12.3.</note> 
+                  <hi>That</hi> John <hi>the Baptiſt came in the Spi<g ref="char:EOLhyphen"/>rit and Power of</hi> Elias? Which is plain that <hi>John</hi> the Baptiſt had his Commiſſion from <hi>Elias;</hi> for there was none greater in Heaven then <hi>Elias</hi> was at that time, for God was then on Earth, eating and drinking with Man as Man, as was before ſaid. Thus much may ſerve to ſatisfy all ſober Men, who will not violently oppoſe plain Scripture.</p>
+               <p>Again, you further object againſt that Saying of theirs, where they affirm, <hi>That no one ever did declare the Knowledge of the true God, in his</hi> Form <hi>and</hi> Nature, <hi>as they have done.</hi>
+               </p>
+               <p>Now, in Anſwer to this, ſay you, <hi>There was</hi> Sabu<g ref="char:EOLhyphen"/>lus <hi>and</hi> Noetus <hi>held but one Perſon in the Diety, called by different Names:</hi> Theſe, you Repreſentor call <hi>Broach<g ref="char:EOLhyphen"/>ers of our Doctrin,</hi> which you judg ſo miſchevious.</p>
+            </div>
+            <div n="12" type="chapter">
+               <head>CHAP. XII. <hi>ANSWER.</hi>
+               </head>
+               <p>IF theſe Biſhops of <hi>Sabulus</hi> and <hi>Noetus</hi> taught ſo, they were in the right of it, and they might hint at Truth, but they wanted a full Revelation; for it was not Revealed to them as it is now, and theſe Two Prophets never read any of their Writings, nei<g ref="char:EOLhyphen"/>ther do I think that there is any of them, that are truly theirs, in being: We have the Prophets and
+<pb n="53" facs="tcp:59959:29"/>Apoſtles Writings through Providence, to ſhew that Chriſt was the only God, altho they were very ſpa<g ref="char:EOLhyphen"/>ring in their Proof how God became Fleſh, to what this Commiſſion doth, and wherefore; why, becauſe the Miſtery of God was not to be finiſhed (according to <hi>John</hi>) until the Days of the Voice of the Seventh <hi>Anty-Angel</hi>'s ſounding of his Trumpet, or Miniſtry;
+<note place="margin">Revel. 10.7.</note> namely the <hi>Quakers:</hi> And <hi>Sabalus</hi> and <hi>Noetus</hi> were before the ſounding of the Firſt <hi>Anty-Angel,</hi> the <hi>Pa<g ref="char:EOLhyphen"/>piſt</hi> with Power.</p>
+               <p>
+                  <hi>Sabalus</hi> the Biſhop being about Two hundred Years after Chriſt, and <hi>Noetus</hi> was Contemporary with him; ſo that this being in the time of the Ten Per<g ref="char:EOLhyphen"/>ſecutions, there was Truth then in the World, and a Trinity of Perſons in one Godhead had not got Footing at that time during the Ten Perſecutions.</p>
+               <p>But after <hi>Religion</hi> was ſet up by Emperial Power, then <hi>Biſhops</hi> were choſen out of Learned and Philoſo<g ref="char:EOLhyphen"/>phical Men, and Churches (as they called them) builded, and Riches given for their Support; then were <hi>Sinods</hi> and <hi>Counſels</hi> called, to eſtabliſh Error and formal Worſhip, and to ſuppreſs Truth: That was ever without outward Pomp and Glory.</p>
+               <p>Thus was <hi>Noetus</hi> and <hi>Sabalus</hi>'s Doctrin Judged Hereſy, both by <hi>Trenitarian</hi> and <hi>Arian;</hi> and tho they <hi>Curſed, Excommunicated,</hi> and <hi>Condemned</hi> each other, by ſeveral <hi>Counſels, as if Hell was broke looſe;</hi> and ſo it was for the Thouſand Years time after <hi>Satan</hi>'s Binding was ended,
+<note place="margin">Revel. 20.</note> as ſoon as the Ten Perſecutions were over, for then the Devil went forth to deceive the World with falſe Worſhip, as <hi>John</hi> declareth.</p>
+               <p>The <hi>Arian,</hi> being but as a Branch ſprouted out of the <hi>Roman Catholick,</hi> altho in <hi>Conſtanſius</hi>'s Days, and ſome time after a very great Branch, inſomuch that
+<pb n="54" facs="tcp:59959:30"/>the <hi>Catholicks</hi> could not then boſt of Number; for in the Counſel of <hi>Ariminum</hi> and <hi>Selencia</hi> there was 560 <hi>Biſhops,</hi> the greateſt Convention that ever was known, and yet they Decreed the <hi>Arian</hi> Faith: So that will you <hi>Catholicks</hi> ſay, <hi>That Number is an Ar<g ref="char:EOLhyphen"/>gument of Truth.</hi>
+               </p>
+               <p>But whichſoever of them that got the Emperor of their ſide gained Power over the other; ſo that both of them, altho they perſecuted each other with dead<g ref="char:EOLhyphen"/>ly Hatred, as they got upermoſt in Power, never<g ref="char:EOLhyphen"/>theleſs they could agree together, to kill Chriſt in his Members, and to tread the Holy City under Foot, of innocent minded Men and Women,
+<note place="margin">Revel. 11.1.</note> by their Pe<g ref="char:EOLhyphen"/>nal Laws, that could not bow down to their out<g ref="char:EOLhyphen"/>ward Formalities and <hi>Antichriſtian</hi> Principles: Theſe were as Two Thieves that Trtuth was Cruſified be<g ref="char:EOLhyphen"/>tween.
+<note place="margin">Matt. 27.38.</note>
+               </p>
+               <p>Now theſe <hi>Catholicks</hi> prevailing, and they having, not only the Scriptures order'd by the Emperor <hi>Con<g ref="char:EOLhyphen"/>ſtantine</hi> to be Tranſlated into their Tongue, but like<g ref="char:EOLhyphen"/>wiſe their learned Counſels collected and gathered into a Heap, and all the other Writings of preceding Biſhops: Then muſt them Books and Traditional Reports be viewed by the Learned, now made Bi<g ref="char:EOLhyphen"/>ſhops, and what Agreed and Aquieſt with their Principles was counted Apoſtolical; and what did not agree,
+<note place="margin">Revel. 2.2.</note> was rejected and counted Hereſy; or elſe they Tranſlated them falſly, playcing down ſome things of their Sayings, and leaving others out that made againſt them.</p>
+               <p>And when any Man was by theſe eſtabliſhed Bi<g ref="char:EOLhyphen"/>ſhops Judged or Accuſed for Hereſy, tho he lived be<g ref="char:EOLhyphen"/>fore their Days, then all his Books muſt either be Currupted or Burn'd; for they muſt be made to ſpeak
+<pb n="55" facs="tcp:59959:30"/>quite contrary to what they did in ſeveral things, on purpoſe to make thoſe Authors the more Con<g ref="char:EOLhyphen"/>temptible: For it was ever ſo, that all that are Non-Commiſſionated Miniſters of God, and ſuch as head an Anty-Church, are for hideing Truth from the People, as the <hi>Papiſts</hi> do the Scriptures, to the end they may keep up their fleſhly Honour; ſo that there is but little known and received in the World at this Day, as well as heretofore, but the univerſal common Opinion.</p>
+               <p>Therefore it is, that your National and Traditional Churches doth ſo ſound forth their own Triumphs, raiſe heaps of Authors of the <hi>Firſt Centuries,</hi> as agree<g ref="char:EOLhyphen"/>ing with their <hi>Catholick Principles;</hi> Crying <hi>Antiquity, Church-Viſability, famous Men are on our Side,</hi> &amp;c.</p>
+               <q>When as the Truth on't is, all is but Clamour and Noiſe; for many of your Authors are meer For<g ref="char:EOLhyphen"/>geries and Lies.</q>
+               <p>
+                  <hi>For Inſtance.</hi>
+               </p>
+               <p n="1">1. There be ſeveral Books that have the Name of ſuch Mens Works, as were never their Works; as <hi>Abdyus</hi> Biſhop of <hi>Babilon,</hi> is ſaid by ſome of your Ca<g ref="char:EOLhyphen"/>talogue Makers to live in the Days of <hi>Chriſt;</hi> others ſay that he knew their great Church-Hiſtorian <hi>Egiſi<g ref="char:EOLhyphen"/>pus,</hi> that lived near Two Hundred Years after: Now the one of theſe muſt be a Ly; and they make the Subſtance of this Book to be of curious Talk with <hi>Bodilis</hi> or <hi>Infernal Devils,</hi> which is a mear <hi>Roman Forgery.</hi>
+               </p>
+               <p n="2">2. There is alſo that which is called Saint <hi>James</hi> the Apoſtles Leturgie, which hath a Prayer in it for all that live in Monaſtries, and yet there was none built of ſome Hundreds of Years after the Apoſtles Days.</p>
+               <pb n="56" facs="tcp:59959:31"/>
+               <p n="3">3. And that <hi>Egiſipus,</hi> before ſpoken of, hath Five Books under his Name: But it is ſaid by ſome of your Church Writers, that <hi>Ambroſe</hi> that <hi>Roman-Church-Biſhop</hi> (who lived in the Year 380.) was not only the Traſlator, but the Author of them Books; which is like enough, for he was not choſen Biſhop for his Goodneſs, but for his Greatneſs; even as one of the Dukes of <hi>Savoy</hi> was choſen Pope for his Greatneſs ſake, as your Church Hiſtory doth ſhew.</p>
+               <p n="4">4. Theſe Corruptions have been very Common, and very Antient; for <hi>Dioniſius</hi> Biſhop of <hi>Corinth,</hi> who lived about the Year of Chriſt Two Hundred, complained ſadly of his being abuſed in this Nature: Therefore, ſaid he, in one of his Books (if that Book was his) <hi>I wrote ſeveral Epiſtles, but the Meſſengers of Satan hath ſown them with Tares, pulling away ſome things, and puting to other ſome, for whom</hi> (ſaid he) <hi>Condemnation is laid up.</hi>
+               </p>
+               <p>And as there was theſe Forgeries and Corruptions aforeſaid, ſo likewiſe there is many of your other great Authors which you would make Apoſtolical, and yet they do not agree with you in ſeveral things that you quote them for; nay ſome Differences are ſo great between you, that I wonder you do not Con<g ref="char:EOLhyphen"/>demn them for Hereticks, as for Example.</p>
+               <p n="1">1. <hi>Turtulyon,</hi> who lived in the time of the <hi>Ten Per<g ref="char:EOLhyphen"/>ſecutions,</hi> being a great Hiſtorian, and by your Church counted famous, did not much contend for Biſhops, nor much valued Ordination; but ſaid, <hi>That Lay<g ref="char:EOLhyphen"/>men were Prieſts,</hi> and gave this Reaſon for it; ſaying, <hi>That after Faith is Received, then Man lives by his Faith, and that Faith,</hi> ſaid he, <hi>becomes Chriſt's Vicar; and from hence he concluded that Three Believers will make a Church.</hi>
+               </p>
+               <pb n="57" facs="tcp:59959:31"/>
+               <p>He alſo denyed <hi>Childrens Baptiſme;</hi> and therefore, ſaid he, <hi>Why haſtneth this Innocent Age to the Remiſſion of Sins, we are much more wary in worldly Things; Is it meet we ſhould commit the Sacrament of Baptiſme, which is a divine Thing, unto them we would not commit the Things of this Earth:</hi> He alſo condemned Second Mar<g ref="char:EOLhyphen"/>riages, and much more Perſecution for Conſience: All theſe things are quite contrary to you.</p>
+               <p n="2">2. <hi>Irinius,</hi> Biſhop of <hi>Lyons,</hi> who, it is ſaid, knew <hi>Ignaſius</hi> and <hi>Policarbus,</hi> yet he held and tought, the Souls Mortality.</p>
+               <p n="3">3, And <hi>Juſtinus,</hi> who lived in thoſe Days, you cannot deny but that he did both hold and teach, <hi>That God was in the Form of a Man from all Eternity.</hi>
+               </p>
+               <p n="4">4. And further, There was never a one of all theſe aforeſaid, that held a Trinity of Perſons in one God-Head; No not <hi>Oregen</hi> himſelf, whom your Church doth ſo extol, altho he turned Apoſtate, and denyed the Faith, and Sacrifiſed to Devils, to ſave his Life; but what is he ſo cry'd up, both by Papiſt and Proteſtant, for; is it not for his lofty Stile, and philoſophical Notions, and in that he would make his Divinity to ſtoop unto his Philoſophy? For he held with <hi>Plato,</hi> 1. <hi>The Souls Infuſion, and tought that all Souls were made together, and ſent down from Heaven to be Imbodyed.</hi>
+               </p>
+               <p n="2">2. He Tought, <hi>That after we riſe again, we ſhall have all need of Baptiſme to purge us clean.</hi> 3ly. <hi>He in one place condemned Second Marriages, and in another Contradicts it again.</hi> 4ly. <hi>He Tought, that Devils were Bodilis-Spirits; and alſo, that all Devils would be ſaved at laſt.</hi> This ſure is it that pleaſes you at a Haire.</p>
+               <p>But as to his Doctrin concerning God, that can<g ref="char:EOLhyphen"/>not pleaſe you ſo well, for the <hi>Arians</hi> challing him to be for them, and therefore they ſay, That <hi>Oragen</hi>
+                  <pb n="58" facs="tcp:59959:32"/>denyed <hi>That the Son was to be Adored or Prayed too; for he is,</hi> ſaith <hi>Oregen, not the Author, but the Procurer of the good Things of God:</hi> So that we pray not to him, but to God for his ſake. And <hi>Auguſtin</hi> your Saint produces this as <hi>Oregen</hi>'s Opinion concerning God. And thus much as to your great Apoſtolical Fathers, as you call them, who lived in the time of the Ten Perſecutions.</p>
+               <p>As to thoſe other <hi>Antient Popes, Biſhops, Fathers,</hi> and <hi>Counſels,</hi> that have been ſet up by the <hi>Roman Im<g ref="char:EOLhyphen"/>perial Power</hi> and <hi>Authority,</hi> I ſhall not treat on them here; for he that hath but a Grain of <hi>ſpiritual Senſe</hi> predominating in him, will eaſily ſee them no other but the <hi>Mother</hi> of <hi>Harlots,</hi> or <hi>Miſtery Babilon,</hi> that ſets upon <hi>Tongues, Noſions,</hi> and <hi>Languages,</hi> as hath been unfolded in a Treatiſe intituled, <hi>The White De<g ref="char:EOLhyphen"/>vil uncaſed;</hi> which may come to be extant in time.</p>
+               <p>This is the Sum of your <hi>Church-History;</hi> ſo that what Satisfaction can any Man have by all your <hi>Au<g ref="char:EOLhyphen"/>thors</hi> and <hi>Apoſtolical Fathers,</hi> as you call them, as al<g ref="char:EOLhyphen"/>ſo your <hi>Tranſlators</hi> of their Works, who were moſt of them <hi>Corrupters,</hi> each one endeavouring to force the Matter to ſute with his own Opinions, as <hi>Epe<g ref="char:EOLhyphen"/>phanius, Rufenus,</hi> and ſeveral others, who it is ſaid corrupted ſeveral Authors.</p>
+               <p>So that all their Books are but troubled Waters to drink, being not of that Ephecaſy as to quench the Thirſt of Sin; <hi>for their</hi> Silver <hi>is become</hi> Droſs, <hi>their</hi> Wine <hi>is mix'd with</hi> Water <hi>of a ſtanding Poole.</hi>
+                  <note place="margin">Iſaiah 1.22. John 4.14.</note> This will not paſs currant with us, for no VVine to us like the VVine of the Spirit; no VVater to us but the VVater of Life; no Balme for us but what is in <hi>Gilliad,</hi> in one <hi>Perſonal-God-Man, Chriſt Jeſus,</hi> bleſ<g ref="char:EOLhyphen"/>ſed for ever, that will be accepted of with us, the
+<pb n="59" facs="tcp:59959:32"/>only true Chriſtians in the World at this Day.</p>
+               <p>Therefore take you all your Books and Learning to yourſelves; we have but Three to Read, to wit, <hi>the Prophets, the Apoſtles, and the Witneſſes of the Spi<g ref="char:EOLhyphen"/>rit:</hi> In theſe is fulneſs of Perfection; for the Light and Life of their Words, ſhining in our Hearts, is the <hi>Rule, Prop, Stay,</hi> and <hi>Guide</hi> of our <hi>Faith;</hi> which is but one, and this one Faith hath one God of a ſingle Perſon or Subſtance for its Object to pitch it ſelf upon, and not a Trinity of Perſons, or Sub<g ref="char:EOLhyphen"/>ſtance; but <hi>Father, Son</hi> and <hi>Holyghoſt</hi> is one ſingle Subſtance, and no more; which cannot be denyed, neither by Scripture, or ſober Reaſon; for,</p>
+               <p>Firſt, <hi>Was not the Eternal</hi> God-Head-Spirit <hi>the ever<g ref="char:EOLhyphen"/>laſting Father.</hi>
+               </p>
+               <p>Secondly, <hi>Was not that</hi> glorious Body, <hi>wherein God the Father did eternally Dwell,</hi> The eternal Son.</p>
+               <p>Thirdly, <hi>And was not that powerful Word, which pro<g ref="char:EOLhyphen"/>ceeded from his God-Head-Spirit through his glorious Mouth the Holyghoſt, or holy Spirit, by which he made the Worlds, and governeth all things.</hi>
+               </p>
+               <p>Is not this <hi>Trinity</hi> in <hi>Unity,</hi> and <hi>Unity</hi> in <hi>Trinity,</hi>
+                  <note place="margin">Heb. 1.3. John 1.13. Epheſ. 4.5. Iſa. 45.21, 22. Chap. 43.10.</note> more agreeable to the Scripture of Truth, then any other <hi>Trinity,</hi> to all Men that acknowledge but one eternal Being, and no more? Now your <hi>Trinity of Perſons,</hi> will neither be made to agree with Scripture Reaſon nor Sence; ſo that your ſtriving to explain it doth but the more darken the Sence about your Airy God, and you are quite loſt in your Definition, and now of late more than ever: Are you made a con<g ref="char:EOLhyphen"/>founded <hi>Babel,</hi> and your Clargie doth claſh one a<g ref="char:EOLhyphen"/>gainſt another, which doth make your Hearers begin to ſtager, as well it may: For,</p>
+               <pb n="60" facs="tcp:59959:33"/>
+               <p n="1">1ſt. One Party of your Church doth Hold and Teach, that God is <hi>[Three diſtinct Perſons, and but one Subſtance]</hi> which is a Contradiction.</p>
+               <p n="2">2ly. The other Party of your Church Teacheth, That God hath not only <hi>[Three diſtinct Perſons]</hi> but <hi>[Three diſtinct Subſtances likewiſe;]</hi> and from hence doth boldly charge the <hi>Homanſion,</hi> or one Subſtance, with the Hereſy of <hi>Sabiliſm,</hi> as they call it.</p>
+               <p n="3">3dly. The contrary Party makes their Rejoynder again, and chargeth the other Party with holding of a plurality of Gods: For, ſay they, if there be <hi>[Three Subſtances]</hi> then there is <hi>[Three Gods,]</hi> which is true enough.</p>
+               <p n="4">4thly. Again the adverſe Party Replys, ſaying, That if there be <hi>[Three Perſons]</hi> there muſt be <hi>[Three Sub<g ref="char:EOLhyphen"/>ſtances]</hi> (which is true enough too:) And they give the Reaſon why they are to hold <hi>Three Subſtances,</hi> as well as <hi>Three Perſons;</hi> it being a forſt-put. <hi>For,</hi> ſay they, <hi>there is now a greater Neceſſity than ever there was, to Hold and Maintain Three diſtinct</hi> Subſtances, <hi>as well as</hi> Three Perſons: <hi>Otherwiſe,</hi> ſay they, <hi>we are in great Danger to looſe the</hi> Catholick Faith, <hi>by the re<g ref="char:EOLhyphen"/>vival of the Hereſie of</hi> Sabalus, <hi>which walks publickly a<g ref="char:EOLhyphen"/>broad, tho under the Diſguiſe of a new Name: And there<g ref="char:EOLhyphen"/>fore if we do not allow the God-Head intirely to be</hi> [Three diſtinct Subſtances] <hi>as well as</hi> [Three diſtinct Per<g ref="char:EOLhyphen"/>ſons] <hi>then comes in</hi> Sabaliſm: <hi>And there's an end then</hi> (ſay they) <hi>of the Trinity.</hi>
+               </p>
+               <p n="5">5thly. To this, the other old dark Light Replies, ſay<g ref="char:EOLhyphen"/>ing, <hi>That if by Retaining the old Words of</hi> [Three Per<g ref="char:EOLhyphen"/>ſons and one Subſtance] <hi>there is Danger of looſing the</hi> Catholick Faith, <hi>it muſt be loſt out of the</hi> Catholick Church: <hi>And the Revolt by</hi> Sabaliſm (ſay they) <hi>muſt be both the moſt laſting, and the moſt general Apoſtatiſe
+<pb n="61" facs="tcp:59959:33"/>that ever was foretold, or feared, ſhould happen to the</hi> Chriſtian World. <hi>But,</hi> ſay they, <hi>we hope wee need not to be frighted out of our Religion.</hi>
+               </p>
+               <p>And thus,
+<note place="margin">Revel. 18.10.</note> you ſee what a Confuſion is fallen up<g ref="char:EOLhyphen"/>on you; your <hi>Babilon</hi> is now crying out, <hi>Alas, Alas! Did not the Prophets and Apoſtles ſpeak of theſe Things:</hi> Now is fulfilled that Saying of <hi>David</hi>'s to the full, <hi>Divide their Tongues, O Lord,
+<note place="margin">Pſal. 55.9.</note> for I have ſeen Violence in the City.</hi>
+               </p>
+               <p>Doth not this your Diviſion tend to Confuſion,
+<note place="margin">Iſa. 11.11, 15.</note> or is it not Confuſion it ſelf in a ſuperlative Degree? For tho you be divided, yet our God is not divided,
+<note place="margin">1 John 5, 7.20.</note> but is one, Yeſterday, to Day, and for ever: For I demand,</p>
+               <p>
+                  <hi>Firſt,</hi> How can Chriſt be called <hi>the greate,
+<note place="margin">Heb. 13.8. Titus 2.13. 1 Tim. 1.17. &amp; 6.12,</note> the High and Mighty God,</hi> if he hath Two other Gods to ſhare with him? And,</p>
+               <p>
+                  <hi>Secondly,</hi> How can Chriſt be <hi>Eternal</hi> in your <hi>Creed,</hi> if he were begotten?</p>
+               <p>
+                  <hi>Thirdly,</hi> And how can that, which receives a Being from another, ever be made equal with that which hath its being of it ſelf alone?</p>
+               <p>Certainly, whatever you <hi>Trinitarians</hi> ſay to the contrary, yet it is evident that you make Chriſt no more than a titular God, the very ſame with <hi>John Biddle,</hi> that you ſo much diſown in your Pamphlet: But I cannot ſee any great Difference between you; I am ſure you are as much out of the Way of Truth as he.</p>
+               <p>For, ſaid <hi>John Bidle, Chriſt is our Lord and God:</hi> But how, <hi>Why,</hi> ſaid he, <hi>not Really, but Apelitive, as Magiſtrates are called Gods;</hi> and ſo he makes him God by Deputation, as to Title; being God, not in Nature, but in Name; and ſo is ſubordinate to God.</p>
+               <pb n="62" facs="tcp:59959:34"/>
+               <p>Now, do not you do ſo too; for you make the Son but to be begotten: And if you will make him God, yet he muſt be divided from the Father and Holyghoſt. Now this is certain, that if there be a Father diſtinct from that bleſſed Body of Chriſt, it muſt then be as <hi>John Bidle</hi> ſaid; and therefore it is, that <hi>John Bidle,</hi> as well as <hi>Arius</hi> and <hi>S<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ſinus,</hi> make him but Man; becauſe they would have but one ſingle God: But you, if you make him God, yet you will divide him from the Father, and from the Ho<g ref="char:EOLhyphen"/>lyghoſt; and ſo, at the beſt, you make him but a Third part God.</p>
+               <p>And whereas you are ſo bold, as to condemn <hi>Sa<g ref="char:EOLhyphen"/>bulus</hi> and <hi>Noetus,</hi> for worſhiping one perſonal God, under the Names of <hi>Father, Son,</hi> and <hi>Holyghoſt;</hi> con<g ref="char:EOLhyphen"/>demning and judging them for Broachers of Hereſy, how will you free yourſelves from this Crime: As alſo thoſe Counſels of <hi>Arians</hi> and <hi>Trenitarians,</hi> as cur<g ref="char:EOLhyphen"/>ſed them and their Principles; together with thoſe Counſels and Sinods, on both ſides judging and con<g ref="char:EOLhyphen"/>demning each other with deadly Malice, as your Church Hiſtory doth ſhew: What, were thoſe the Church of God? No.</p>
+               <p>But when God gathers up his Jewels, many of thoſe that have been judged Hereticks will riſe Saints,
+<note place="margin">Mal. 3.15, 16, 17, 18. Acts 24.14.</note> and many of thoſe that your Churches have Canoni<g ref="char:EOLhyphen"/>zed for Saints, will riſe Devils: For no Perſecutors of Conſcience will eſcape the Stroke. If any Man object <hi>Paul</hi>'s perſecuting the Church, they may know that <hi>Paul</hi> at that time acknowledged no Jeſus at all; therefore when both ſides acknowledges a Jeſus, take heed how you Perſecute.</p>
+               <p>I have been ſomthing larger than I intended, as to the Church-Hiſtory, and that becauſe your Church
+<pb n="63" facs="tcp:59959:34"/>doth ſo much boaſt and Glory upon Antiquity, like the Papiſts; for there is no great Difference between you nor the other Churches, only in outward things; for the eſſential Points of Faith is one and the ſame with you all; for you have all one God, and one Devil, one Heaven and one Hell. So that if one of you be true, you are all true; and if one of you be falſe, ye are all falſe: Therefore it were well, if your Reaſon would be ſo moderate, as to bear with, and forbear one another; being you are all one, both in the Root, and in the Fruit, but that you will never do; but on the contrary, you will ever be exciting the Magiſtrates to Perſecution and Bloodſhed:
+<note place="margin">Revel. 17.3. &amp; 15.6.18. &amp; 18.24.</note> But happy is it for that Nation in the Temporal, and that Nation or Holy City in the Spiritual, whoſe Magi<g ref="char:EOLhyphen"/>ſtrates are ſo prudent, as not to harken to the Prieſts Inſtigations; but on the contrary, to ſtop the Courſe of the Violent by wholſom Laws.</p>
+               <p>Theſe are thoſe good Beaſts, or head Magiſtrates,
+<note place="margin">Revel. 4.6.</note> ſpoken of by the Scriptures, who are ſaid to have <hi>Eyes before and behind:</hi> The Eye of Faith before, which ſhews them that Conſcience belongs to God; and the Eye of Reaſon behind, to ſee that all Affairs in the Temporal be kept well, exerciſing Juſtice and true Judgment;
+<note place="margin">Rom. 13.3.</note> preſerving and defending the Innocent who break not the Civil Law: And on the other hand,
+<note place="margin">Acts 5.38.</note> puniſhing the Tranſgreſſors of any of the Ci<g ref="char:EOLhyphen"/>vil Laws of the Land, according to their Demerit.</p>
+               <p>Theſe, and ſuch like Magiſtrates, are the truly Nurſing Fathers, and ſhall proſper: <hi>This we leave to Providence, and proceed.</hi>
+               </p>
+               <p>In the latter end of your Pamphlet, you pretend a great many of Contradictions committed by <hi>Lodowick Muggleton</hi> and <hi>John Reeve;</hi> but the Anſwer before
+<pb n="64" facs="tcp:59959:35"/>might ſerve for them all that are worth the Anſwer<g ref="char:EOLhyphen"/>ing; yet I ſhall Anſwer to Two or Three Things more that you charge againſt them.</p>
+               <p>In <hi>Page</hi> 25. You ſay, <hi>That</hi> John Reeve <hi>doth affirm, that no Man can foretel Eclipſes of the</hi> Sun <hi>and</hi> Moon, <hi>but by Revelation: From whence,</hi> ſay you, <hi>the Aſtrolo<g ref="char:EOLhyphen"/>gers are much beholding to him, who tells them they write their Alminacks by Revelation, if they therein foretel Eclipſes, as what Aſtrologer doth not.</hi>
+               </p>
+            </div>
+            <div n="13" type="chapter">
+               <head>CHAP. XIII. <hi>ANSWER.</hi>
+               </head>
+               <p n="1">1. HERE you wreſt their Words, and frame a wrong Senſe of them; for the Time when an Eclipſe falls out is one thing, and the Time of the Ephects of Working is another: Of ſome of the E<g ref="char:EOLhyphen"/>clipſes, the Aſtrologers ſay, the Time of their E<g ref="char:EOLhyphen"/>phects laſt for ſo many Months, others the Time of ſo many Years, before the Ephects will have done working.</p>
+               <p>Wherefore then it follows, that <hi>John Reeve</hi> doth not ſay, That none of the Figurative Marchants doth know when, or at what time an Eclipſe will fall, but their Ephects, and time of them Ephects, how long they will be in working: <hi>Theſe Things,</hi> ſaid <hi>John Reeve, can no Man know, but by Inſpiration;</hi> which is poſitively True.</p>
+               <p>And thus you, Church-Doctor, raiſe Slanders to blaſt their Reputation; and ſo Truth comes to be vi<g ref="char:EOLhyphen"/>lified
+<pb n="65" facs="tcp:59959:35"/>as I ſhewed before, for Truth may be buried under Falſehood for a time.</p>
+               <p>Again, <hi>pag.</hi> 25, you charge them with another Er<g ref="char:EOLhyphen"/>ror, ſaying, That <hi>they affirm that the Eclipſe of the Moon is never but when it is near the Sun.</hi> When as, ſay you, it is manifeſt that its Eclipſe is when it is oppoſite to the Sun, and that the Earth is between them, which doth occaſion it by with-holding its bor<g ref="char:EOLhyphen"/>rowed Light. But to this I anſwer.</p>
+               <p n="2">2. Here again you have abuſed <hi>John Reeve,</hi> and in plain terms bely'd him; which one would think a Man of that ſeeming Purity would not have done: For <hi>John Reeve</hi> doth not deny its Eclips when oppo<g ref="char:EOLhyphen"/>ſite to the Sun; but ſaith (for theſe are his Words) the Eclipſe of the Moon is through her near conjunct<g ref="char:EOLhyphen"/>ion with the Natural Light or Ruler of the Day, or a Planatary Fire, anſwerable to its nature that occaſi<g ref="char:EOLhyphen"/>ons the Eclipſe.</p>
+               <p>Now this we do affirm, and your Aſtrologers do not deny it but that there are Stars of a fiery nature, and Experience ſhews it: For what is the reaſon that there is more heat when the Sun is in <hi>Leo,</hi> then there is when it enters <hi>Cancer,</hi> when as the <hi>Sun</hi> is neareſt to us, when it enters that Sign, but only that the Heat is occaſioned by the riſing of ſome Fiery Stars, as that which they call the Dogg Star, and others of the like nature.</p>
+               <p>So likewiſe the occaſion of the Moons Eclipſe, it is not by the Sons not rendring its borrowed Light, by reaſon of the Earths interpoſing her ſelf betwixt thoſe Lumenaries; but it is through her being near to ſome of them Fiery Stars, as thoſe which the Aſtrologers call the <hi>Dragons-Head,</hi> or <hi>Dragons-Tail;</hi> one of which being always near to the Moon when ſhe ſuffers an Eclipſe.</p>
+               <pb n="66" facs="tcp:59959:36"/>
+               <p n="3">3. We do likewiſe affirm that the Moon borrows no Light from the Sun, but that it is a real created Light of it ſelf;
+<note place="margin">Gen. 1.16.</note> for <hi>Moſes</hi> ſaith, That <hi>God made two great Lights;</hi> but your <hi>Aſtrologers</hi> and you ſay, That God made but one: Whether ſhould we believe, <hi>Mo<g ref="char:EOLhyphen"/>ſes</hi> or you? for ſaith <hi>Moſes, One of them is made to rule the Day, and the other is made to rule the Night.</hi>
+               </p>
+               <p n="4">4ly. The Sun and Moon are of contrary natures, one is fiery hot, the other is cold and watery; there<g ref="char:EOLhyphen"/>fore it is contrary to Reaſon that the one ſhould re<g ref="char:EOLhyphen"/>ceive any Light from the other, and therefore there can be no agreement betwixt them, for Experience ſhews us that the Moon is cold and watery, being made out of the Water, and ſo is the Lady of the Water, and occaſions the Ebbing and Flowing of the Seas, and the running of all Rivers, drawing the Wa<g ref="char:EOLhyphen"/>ters after her, as the Loadſtone doth Iron.</p>
+               <p>But on the other Hand, the Sun is hot and firy, be<g ref="char:EOLhyphen"/>ing the Captain of all Fire, and ſo draws combuſti<g ref="char:EOLhyphen"/>ble Matter up to it ſelf, which occaſioneth Thunder, which is a War betwixt Fire and Water; and thus they appear in their contrariety of Natures, which we ſee further by Experience, that the clearer that the Sun doth ſhine, the hotter it is; but the clearer the Moon doth ſhine, the colder it is.</p>
+               <p>So that from what is ſaid, may be ſeen who the Aſtrologers are moſt beholding to, whither to you, or <hi>John Reeve,</hi> let all Men judg; for <hi>John Reeve,</hi> in this Prinſiple, is as contrary to the Aſtrologers, as the Sun and Moon are contrary in Nature.</p>
+               <p>Furthermore, You object againſt <hi>John Reeve,</hi> for ſaying that the Sun, Moon, and Stars move all in one <hi>Firmament:</hi> And for ſaying, <hi>That they are not much bigger then they appear to us.</hi> To this you ſay,
+<pb n="67" facs="tcp:59959:36"/>
+                  <hi>That they are quite contrary, and that they move in ſeve<g ref="char:EOLhyphen"/>ral Orbes, and that each Orbe at ſo much diſtance from each other, as the Aſtroligers affirm.</hi>
+               </p>
+            </div>
+            <div n="14" type="chapter">
+               <head>CHAP. XIV. <hi>ANSWER.</hi>
+               </head>
+               <p n="1">1. IS it not as good Senſe, and better, to believe, <hi>That the Sun, Moon, and Stars move all in one Firmament, or Heaven, as ſo many as Nine ſeveral Hea<g ref="char:EOLhyphen"/>vens, as your blind Aſtrologers teach you:</hi> And yet our fleſhly Eyes can pierce through them all; neverthe<g ref="char:EOLhyphen"/>leſs every one of theſe muſt be ſo many Thouſands of Miles beyond each other; and this blind Opinion muſt be ratified forſooth, becauſe the Planets and fixed Stars have ſeveral Motions; and therefore from hence you will have theſe ſeveral Heavens, and theſe their differences in Motion, muſt ſhew their diffe<g ref="char:EOLhyphen"/>rence in Hight and Subſtance.</p>
+               <p n="2">2. Becauſe <hi>Saturn</hi> moves ſo ſloly, as to be near up<g ref="char:EOLhyphen"/>on Thirty Years in finiſhing his Courſe through the Twelve Signs, whereas the <hi>Sun</hi> finiſhes his in one Year: Therefore, from hence, do you conclude, that he muſt be of neceſſity Thirty times higher, and Thirty times bigger than the Sun, and Thirty times further to go; nay, and the next Orbe above <hi>Saturn</hi> to move ſo ſlow, as to be Forty Thouſand Years in finiſhing his Courſe; Pray how many Millions of Miles is it to that Heaven, or <hi>Primum Mobila?</hi> One of your Mathematiſians ſay it is, <hi>One hundred and ſeventy Millions eight hundred and three Miles.</hi>
+               </p>
+               <pb n="68" facs="tcp:59959:37"/>
+               <p>Is this your Wiſdom, in which you ſay we are not capable to anſwer you in? I pray, Is this good Pul<g ref="char:EOLhyphen"/>pit Doctrin? One of your Miniſters that I did know, whoſe Name was <hi>Mountney,</hi> did mount ſo high, as to affirm, in the Pulpit, to his Pariſhioners, that it was ſo far to the <hi>Primum Mobila, That if it were poſſi<g ref="char:EOLhyphen"/>ble to fling a Millſtone down from thence, that it would be Seven Years before it would reach this Earth:</hi> And yet in another Doctrin he taught, <hi>That a departed Soul would be in Heaven in a Moment,</hi> which is much higher than that <hi>primum Mobila.</hi>
+               </p>
+               <p>And your reverend Doctor <hi>More,</hi> before quoted, muſt be remembred here, for he Taught, <hi>That a Star of the firſt Magnitude is Twenty thouſand times higher than this Earth, and Nine hundred thouſand times biger than the Moon.</hi>
+               </p>
+               <p>Theſe are your rare learned Men, I wonder how they could get a Line of that length to meaſure ſo far, and yet to ſtand upon this Earth: But let them go on, for the time of their Sopheſtry is almoſt at an end. But to conclude this Point; as you upon our Principles of the Sun, Moon, and Stars aforeſaid, do call all Men to be Judges againſt us; ſo we, to re<g ref="char:EOLhyphen"/>tort your Language, do call all ſober Men to judge, whether your Opinion of Sun, Moon, and Stars be not an Error of the greateſt Magnitude; and alſo, whether you have done us Juſtice, yea or nay. <hi>And ſo much in anſwer to your firſt Query.</hi>
+               </p>
+            </div>
+            <div n="15" type="chapter">
+               <pb n="69" facs="tcp:59959:37"/>
+               <head>CHAP. XV.</head>
+               <p>SIR, your Second Query, or latter part of your Pamphlet, was to prove <hi>Lodowick Muggleton</hi> falſe from his Interpretation of the 11th. <hi>Chapter</hi> of the <hi>Revelation</hi> of <hi>John.</hi>
+               </p>
+               <p>But your Proof is but your Denyal, for you do not ſo much as ſhew the meaning of one Word in all that Chapter: If they could but aſſended up to Heaven in a Cloud, as they had ſhewed how <hi>Moſes</hi> and <hi>Jeſus</hi> did, all had been well enough; even as the <hi>Jews,</hi> if they could but have ſeen <hi>Elias</hi> to have come in Per<g ref="char:EOLhyphen"/>ſon, as <hi>John Baptiſt</hi> did, then they would have be<g ref="char:EOLhyphen"/>lieved as they ſaid.</p>
+               <p>So, if you could but have ſeen theſe Prophets to aſſend up in a Cloud, then perhaps you would have ſaid you would have believed them: <hi>But ſoft</hi> (ſay you) <hi>they are not the Two Witneſſes, for they cannot aſſend to Heaven,</hi> for <hi>John Reeve</hi> is dead: <hi>Beſides</hi> (ſay you) <hi>they muſt have been put to Death by the Hands of Violence, and then to have riſen again, and aſcended to Heaven, in the ſight of all Men.</hi>
+               </p>
+               <p>This is all the Interpretation you can give of them; which is none at all, and all the Proof you have a<g ref="char:EOLhyphen"/>gainſt them: And as to <hi>Lodowick Muggleton</hi>'s Inter<g ref="char:EOLhyphen"/>pretation of that Chapter, you ſeem to be at a great Loſs about it, being aſtoniſhed at his Words: <hi>For,</hi> (ſay you) <hi>I cannot tell how to reconcile his Words;</hi> and from hence you fling all off to others, ſaying, <hi>Recon<g ref="char:EOLhyphen"/>cile them as can, for I cannot.</hi>
+               </p>
+               <pb n="70" facs="tcp:59959:38"/>
+               <p>And what is the Difference and Matter that cannot be Reconciled: <hi>Why,</hi> ſay you, <hi>he ſaith, That they Two are the Two Witneſſes;</hi> and yet they ſay, <hi>That the Body of thoſe Two Witneſſes are the Letter of the Scrip<g ref="char:EOLhyphen"/>tures, and that the Witneſſes, or Letter, was ſlain</hi> 1350 <hi>Years before, and yet was ſlain in them again by the Beaſt out of the bottomleſs Pit.</hi> To this I anſwer.</p>
+               <p n="1">1ſt. Here you would have the Letter to be ſlain, whenas it was the Spirit and Life of that Letter that was ſlain; for the Life being gone, therefore the Let<g ref="char:EOLhyphen"/>ter of the Scripture remained as a dead Body, in re<g ref="char:EOLhyphen"/>gard there was none living that could give a true In<g ref="char:EOLhyphen"/>terpretation of it.</p>
+               <p>Now this Spirit and Life was killed 1350 Years ago; for the laſt of the Ten Perſecutions did kill and root out all the true ordained Biſhops, or Miniſters of the Goſpel; ſo that there was none left to give the <hi>Holyghoſt</hi> to others, by laying on of Hands; ſo then there was no quickening Power remaining until a new Commiſſion was given, which now is fulfilled at this Day; for the ſame Spirit that gave the other Witneſſes their Commiſſion, hath choſe theſe to be Witneſſes.</p>
+               <p n="3">3dly. So that they having received that ſame Spirit of Life from God, as the others had; therefore it is they only that can, and do Interpret the Letter of the Scripture; for the Scripture is put into their Hands, as the Prieſthood was into the Hands of <hi>Aaron,</hi> and they by their Interpretation do put Life into the Scriptures, making it to ſtand upon its Feet in the Conſciences of Men and Women, with great Pow<g ref="char:EOLhyphen"/>er, both to the Seed of Faith, and to the Seed of Rea<g ref="char:EOLhyphen"/>ſon,
+<note place="margin">John 6.63. &amp; 15.36.</note> to ſave and deſtroy; for Words of Truth have Spirit and Life.</p>
+               <pb n="71" facs="tcp:59959:38"/>
+               <p n="4">4thly. And as that Spirit of Reaſon did kill that Spirit of Life that did ſpeak that Letter, ſo that now that Spirit and Life is come into them again, they will ſtand upon their Feet, and kill the Spirit of Rea<g ref="char:EOLhyphen"/>ſon with a Death Eternal; for there is now both Body and Life in the Scriptures, and it is the Body of the Witneſſes of the Spirit, which is not a dead Bo<g ref="char:EOLhyphen"/>dy, but a living Body now, and ſo will remain to the end of the World.</p>
+               <p n="5">5thly. Again, whereas you do affirm, <hi>That theſe Witneſſes do declare, that the Spirit and Life was killed in them by the Beaſt out of the Bottomleſs Pit, in their Per<g ref="char:EOLhyphen"/>ſecutors:</hi> That ſaying of yours is utterly falſe, and you did it malitiouſly, on purpoſe that his Words might not be reconciled; for <hi>Lodowick Muggleton</hi> did ſay, <hi>That the Beaſt out of the Bottomleſs Pit made War againſt them, and would have killed them, if their Law could have done it.</hi> And that roaring Lyon <hi>Jeffe<g ref="char:EOLhyphen"/>ries</hi> did ſay afterwards, <hi>That he was ſorry that their Laws were ſo unprovided, that they could not take away</hi> Muggleton<hi>'s Life.</hi>
+               </p>
+               <p>So that it is apparent, that the Spirit and Life of theſe Two Witneſſes is not killed; but after the Two Winneſſes of the Spirit are dead, the Spirit and Life will remain in vigour.</p>
+               <p n="6">6thly. Wherefore as the other Two Witneſſes of <hi>Water</hi> and <hi>Blood</hi> did laſt to the end of the appoint<g ref="char:EOLhyphen"/>ed time of their Commiſſions, even ſo likewiſe will the Revelation of this Commiſſion laſt to the end of the World; for tho the Doctrin is declared as to the Subſtance; yet in that Doctrin will Revelation ariſe, grow and increaſe, in ſuch as hear it and underſtand it, to their eternal Happineſs, Joy, and Glory; and ſhall Prevail and Triumph over all Forms and Opi<g ref="char:EOLhyphen"/>nions
+<pb n="72" facs="tcp:59959:39"/>in Religion, that now totters more than ever through its own Inſtability.</p>
+               <p>And now Sir, are you not either Blind or Maliti<g ref="char:EOLhyphen"/>ous, or both, that would forge Contradictions where there is none; yea, and to make Lies, on purpoſe to make Truth appear Infamous? So that are not you a Shifter of all Shifters, and know not where to ſix, or what to ſay, or how to diſprove it, either by Scripture or ſober Reaſon? It's a poor Shift to falſ<g ref="char:EOLhyphen"/>fy the Words of your Oponant, becauſe you have not anything that ſeems plauſible to Anſwer.</p>
+               <p>Sir, is this your Learning? Pray do you believe that Book of the Revelation by St. <hi>John,</hi> to be true Revelation, and a part of holy Writ? If you ſay you do, then why will you not give your own Cen<g ref="char:EOLhyphen"/>timents of ſo much as one Verſe, and tell the Mean<g ref="char:EOLhyphen"/>ing thereof? And if this Interpretation of theirs be not good Senſe, why do you not Reprove them with better?</p>
+               <p>But finding your Ignorance to be ſuch, therefore it had been better for you to have let this Book alone, and plainly to have ſaid, <hi>That it was Sealed, and you could not read it in its own Senſe.</hi> And it had been better for you to have let theſe Two Witneſſes alone, and all the Believers of it alone; but you were ap<g ref="char:EOLhyphen"/>pointed to that end, that your Lies and Slandees a<g ref="char:EOLhyphen"/>gainſt it may bring you to a full Reward.</p>
+               <p>For this Book of the Revelation by <hi>John</hi> was not writen for your Edification, but for the Inſtruction of this laſt Witneſs, and Benifit of the Seed of Faith, to the End of the World, as a peculiar Bleſſing Seal'd to them from Heaven: And therefore by this Bleſ<g ref="char:EOLhyphen"/>ſing of Faith and Knowledge in the Scriptures of Truth, which is now given unto us, we do from
+<pb n="73" facs="tcp:59959:39"/>hence find, that you have no part of the Bleſſing of this Book of the <hi>Revelation</hi> of St. <hi>John,</hi> as may appear by theſe Seven Particulars following.</p>
+               <p>As <hi>Firſt,</hi> This Commiſſion of the Spirit hath ſeen into the Book of Life, wherein they have found the Names of the Prophets, Apoſtles,
+<note place="margin">Chap. 20.15.</note> and the Witneſſes of the Spirit Recorded there, as true Commiſſionated Meſſengers of God; but your Name was not found there as a Miniſter of God: <hi>This is the firſt Evidence of your Excluſion.</hi>
+               </p>
+               <p>
+                  <hi>Secondly,</hi> Theſe Witneſſes, and the Believers there<g ref="char:EOLhyphen"/>of,
+<note place="margin">Chap. 14.3.</note> have looked and ſeen thoſe <hi>Hundred forty and four thouſand Virgins that were Redeemed from the Earth, ſtanding with the Lamb, their only God, on Mount</hi> Sion, <hi>ſinging that new Song of, all Praiſe to the Lamb:</hi> But you, not having learn'd that Song of, <hi>all Praiſe to the Lamb,</hi> were not found amongſt them; but we,
+<note place="margin">Chap. 17.5. &amp; 22.18.</note> look<g ref="char:EOLhyphen"/>ing about, have ſeen you in that great City, <hi>Miſtery Babilon,</hi> the Mother of all Harloting and Blaſphem<g ref="char:EOLhyphen"/>ing Prieſts; who are ſaid, by the Spirit, to have the Curſe of this Book, for ading and taking away from it. For you add your own Imaginations to it, and ſo from thence will make your own confounded Rea<g ref="char:EOLhyphen"/>ſon to be the Judg of it; as I ſhew'd before in <hi>Chap.</hi> 2.</p>
+               <p>
+                  <hi>Thirdly,</hi> As we have ſeen you add your own vain Thoughts to it, ſo likewiſe have we ſeen you taking away from the Words of this Propheſy,
+<note place="margin">Chap. 11.2.</note> and the Two Witneſſes thereof: For you will not ſuffer thoſe laſt true Prophets to have any Footing here, but would thruſt them out of the Book of Life,
+<note place="margin">Chap. 18.7.</note> and thruſt yourſelf into it.</p>
+               <p>But this Commiſſion ſheweth us, That God will take away your part out of the Book of Life; not that you had any there, but that you thought you
+<pb n="74" facs="tcp:59959:40"/>had, and thought your Name was there; but you are not in the Book of Life to be found, neither as a Teacher, nor as a true Believer, as thoſe Two Wit<g ref="char:EOLhyphen"/>neſſes are and the true Believers thereof: We have found our Names in this Book of Life of the Lamb,
+<note place="margin">Chap. 3.5.</note> the only and alone wiſe God, to our eternal Com<g ref="char:EOLhyphen"/>fort, and his everlaſting Praiſe.</p>
+               <p>
+                  <hi>Forthly,</hi> Again, you have further taken away from this Book,
+<note place="margin">Chap. 22.4. &amp; 2.18. &amp; 19 12. &amp; 1.18.</note> in that you denyed God to have any Bo<g ref="char:EOLhyphen"/>dy, Face, or Shape: So that as the Bleſſing of this Book is, <hi>That the Saints ſhall ſee his Face;</hi> ſo the Curſe of this Book is, <hi>That ſuch as have denyed him,</hi> as aforeſaid, <hi>ſhall never ſee his Face to their Comfort.</hi>
+               </p>
+               <p>
+                  <hi>Fifthly,</hi> you have likewiſe taken away from this Book,
+<note place="margin">Chap. 1.8.18. &amp; 2.8.</note> in that you teach, that the <hi>Alpha</hi> and <hi>Omega</hi> did not die: But this Book doth declare that the <hi>Alpha</hi> and <hi>Omega,</hi> the Firſt and the laſt did die, and ſhed his Blood; by which he redeemed his Elect Seed; ſo what part can you have in this Purchaſe, ſeeing you deny that God had any Blood, or offered up any Life by ſheding of the ſame.</p>
+               <p>
+                  <hi>Sixthly,</hi>
+                  <note place="margin">1 John 5.20. Revel. 19.16, 17. &amp; 15.13. &amp; 1.8. &amp; 22.<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>.16. &amp; 18.8. &amp; 17.14.</note> You alſo further add, and take away from this Book of <hi>John,</hi> in that you ſay, <hi>That there is a God diſtinct from Chriſt:</hi> And further ſay, <hi>That Chriſt Je<g ref="char:EOLhyphen"/>ſus our Lord is not the ſole God:</hi> But this Book of <hi>John</hi> owns no other God at all but Jeſus Chriſt; gi<g ref="char:EOLhyphen"/>ving him the Titles of <hi>First</hi> and <hi>Laſt,</hi> the <hi>Alpha</hi> and <hi>Omega, King of Kings, God, very God, true God, great and almighty God, and the God of all Prophets:</hi> Where then ſhould there be any other God beſides Jeſus Chriſt our Lord; for this divine Apoſtle, who lived and leaned in the Boſom of this Lord, knew not any other God, as is abundantly proved.</p>
+               <pb n="75" facs="tcp:59959:40"/>
+               <p>
+                  <hi>Seventhly and laſtly,</hi> This God, the Lord Jeſus, you have Renounced, his Prophets you have Perſecuted and Belied, the true Faith you have deſpiſed; for you have not only Contradicted and Diſpiſed the Doctrin of the Second Commiſſion, which was the Commiſſion of Blood, but you have alſo, to agrivate your Crime, called the Doctrin of this Third and Laſt Commiſſion, which is the Commiſſion of the Spirit (and which is one of them three great Armies that in Heaven will follow the Lamb upon white Horſes,
+<note place="margin">Chap. 19.14.</note> which is the Righteouſneſs of Faith in his bleſſed Perſon: I ſay you have called this Commiſſi<g ref="char:EOLhyphen"/>on) <hi>Blaſphemy, Deluſion, Deceat: And that it is</hi> (ſay you) <hi>made up of Impiety, Nonſenſe and Alſurdities:</hi> And in general, calls them <hi>miſchevious Principles, Confuſion and Contradiction; and that we are a peraici ous and contemptable Sect,</hi> &amp;c.</p>
+               <p>So that, from hence, it doth plainly appear,
+<note place="margin">Chap. 19.15.20. &amp; 21.27.</note> That you have brought yourſelf under the Judgment and Senſure of that Book of <hi>John,</hi> and of this Commiſ<g ref="char:EOLhyphen"/>ſion of the Spirit, which doth ſo fully explain that <hi>Propheſy,</hi> being ſent to finiſh the <hi>Miſtery of God:</hi>
+                  <note place="margin">Chap. 10.7.</note> And now behold it is finiſhed, and <hi>you</hi> have beard, and now <hi>you</hi> will find,
+<note place="margin">Pſal. 62.11.</note> that Power belongeth unto this God, and to this his Commiſſion of the Spirit.</p>
+               <trailer>FINIS.</trailer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
